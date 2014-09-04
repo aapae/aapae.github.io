@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://aapae.org.au" # the base hostname & protocol for your site
 twitter_username: aapae
 github_username:  aapae
-permalink: title
+permalink: :title
 
 # Build settings
 markdown: kramdown
