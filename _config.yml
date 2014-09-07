@@ -1,13 +1,13 @@
 # Site settings
 title: Australian Association of Professional and Applied Ethics 
-email: info@aapae.com
+email: info@aapae.org.au
 description: >
   The AAPAE encourages awareness of applied ethics as a significant area of concern and fosters discussion of issues in applied ethics. It provides a meeting point for practitioners from various fields together with academics with specialist expertise. It welcomes everyone who wants or needs to think and talk about applied or professional ethics. The AAPAE also attempts to foster connections with special interest groups.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://aapae.org.au" # the base hostname & protocol for your site
 twitter_username: aapae
 github_username:  aapae
-permalink: :title
+permalink: :categories/:title
 
 # Build settings
 markdown: kramdown
