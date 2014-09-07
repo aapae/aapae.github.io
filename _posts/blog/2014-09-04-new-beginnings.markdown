@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A new beginning...
-date:   2014-09-04 12:54:48
+date:   1 Sep 2014
 categories: blog
 ---
 
