@@ -74,3 +74,5 @@ Most other content will be a type of post which live in the [_posts](/_posts/) d
 		Then put your content here
 
 
+All pages and posts must use the `.md` extension.
+

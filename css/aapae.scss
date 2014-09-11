@@ -1,0 +1,204 @@
+---
+---
+
+@charset "utf-8";
+@import "bourbon/bourbon";
+@import "neat/neat";
+@import "neat/neat-helpers"; 
+
+//  Variables
+$mobile:        new-breakpoint(max-width 500px 4);
+$tablet:        new-breakpoint(min-width 501px max-width 900px 4);
+$large-screen:  new-breakpoint(min-width 901px 12);
+
+$font-size:     20px;
+$buffer:        200px;
+
+@include media($mobile) {
+  font-size: 16px;
+}
+
+
+//	Colours
+
+$darkest: 			#221E3F;
+$dark:					#6A739E;
+$light:					#9395C5;
+$lightest:			#95A3E4;
+$darkgrey:			#424242;
+$lightgrey:			#666666;
+
+@mixin space {
+  margin: auto; 
+  padding-top: 125px;
+  padding-bottom: 105px;
+  padding-left: 1em;
+  padding-right: 1em;
+
+  @include media($mobile) {
+    padding-top: 25px;
+    padding-bottom: 5px;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+  @include media($tablet) {
+    padding: 75px 1em;
+  }
+}
+
+@mixin wrapper($w: 700px) {
+  max-width: $w;
+  margin: auto;
+}
+@mixin input {
+  border-radius: 5px;
+  padding: 0.5em;
+  font-size: 1.1em;
+  min-width: 10em;
+}
+
+@mixin trim {
+  margin: 0; 
+  padding: 0;
+}
+
+@mixin invert($color: $dark) {
+  background: $color;
+  color: white;
+}
+
+* { @include trim; }
+
+html { 
+  font-size: $font-size; font-family: 'Merriweather', serif; font-weight: 300;
+  border-top: 5px solid $dark;
+  color: $darkgrey;
+}
+
+h1, h2, h3, h4, h5, p, ul, li { 
+  @include trim;
+  margin-bottom: $font-size; 
+  line-height: 1.3em;
+  font-weight: 300;
+}
+
+
+a { text-decoration: none; color: darken($dark, 10); }
+a:hover { text-decoration: none; color: $light;  }
+
+section { 
+  @include space; 
+  
+  .wrapper {
+    @include wrapper;
+    padding: 1em;
+    overflow: hidden;
+  }
+}
+
+.home { 
+  text-align: center;
+
+  .hero {
+
+    h1, h2, h3, h4, h5, h6, p {
+      @include trim;
+    } 
+    div {
+      padding: $buffer 1em;
+      text-align: left;
+      margin: auto; 
+      max-width: 640px;
+      @include media($tablet) {
+        margin-top: $buffer / 2;
+        padding: $buffer / 2 1em;
+      }
+      @include media($mobile) {
+        margin-top: $buffer / 4;
+        text-align: center;
+        padding: $buffer / 4 1em;
+     }
+    }
+    h1 { 
+      font-size: 2em;
+      line-height: 1em;
+    }
+    span { color: $dark; } 
+  }
+
+  .about { 
+    @include invert;
+  }
+
+
+  .signup { 
+    @include invert($light);
+
+    input {
+      @include input;
+    }
+    #email {
+      color: $lightgrey;
+    }
+    input[type=submit] {
+      color: $dark;
+    }
+  }
+
+    
+  .bullets {
+    @include wrapper(900px);
+    overflow: auto;
+
+    a {
+      text-decoration: none;
+    }
+    .bullet {
+     @include media($large-screen) {
+        @include span-columns(4);
+        @include omega(3n);
+      }
+    }
+    .bullet-content {
+      margin-bottom: 2em;
+    }
+
+    h2 {
+      font-weight: 300;
+      font-size: 1.25em;
+      padding-top: $font-size /7;
+      margin-bottom: $font-size;
+      border-bottom: 1px solid transparentize($darkgrey, .8);
+      display: inline-block;
+    }
+  }
+}
+
+.quote { 
+  font-size: 1.5em; 
+  @include media($mobile) {
+    font-size: 1.2em; 
+ }  
+}
+
+.post-list {
+  h2 {
+    font-size: 1.2em; 
+    margin-bottom: $font-size /2 ;
+  }
+}
+.post { 
+  list-style: none; text-align: left; 
+  margin-bottom: $font-size * 2;
+}
+.post-meta {
+  font-size: 0.8em;
+}
+
+footer { 
+  @include space; background: $lightgrey; color: white; margin-bottom: 0; 
+
+  .wrapper {
+    @include wrapper;
+  }
+}

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="home">
+
+    <section class="hero">
+      <div>
+        <h4>Welcome to the</h4>
+        <h1>Australian Association of <span>Professional</span> &amp; <span>Applied Ethics</span></h1>
+      </div>
+    </section>
+
+    <section class="about">
+      <div class="wrapper">
+        <p class="quote">We're here to promote awareness of applied ethics and foster relationships between practitioners and academics.</p>
+      </div>
+    </section>    
+
+    <section>
+      <div class="wrapper bullets">
+        <div class="bullet">
+          <div class="bullet-content">
+            <a href="/about"><h2>About Us</h2></a>
+            <p>We provide a meeting point for practitioners from various fields together with academics with specialist expertise.</p>
+          </div>
+        </div>  
+        <div class="bullet">
+          <div class="bullet-content">
+            <a href="/events"><h2>Events</h2></a>
+            <p>We hold regular events including conferences, colloquia, and workshops. View our calendar to find out more.</p>
+          </div>
+        </div>
+        <div class="bullet">
+          <div class="bullet-content">
+            <a href="/publications"><h2>Publications</h2></a>
+            <p>Out library contains a range of publications and resources for both academic ethicists and practitioners.</p>
+          </div>
+        </div> 
+
+      </div>
+    </section>
+
+    <section class="signup">
+       <div class="wrapper">
+        <h3>Subscribe to our Ethics newsletter</h3>
+        <form>
+          <input id="email" name="email" placeholder="Email Address" value="" type="email">
+          <input value="Subscribe" type="submit">
+        </form>
+      </div>
+    </section>    
+
+    <section>
+      <div class="wrapper">
+        <ul class="post-list">
+        {% for post in site.posts | limit:5 %}
+          <li class="post">
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+            <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+            <div class="excerpt">
+              {{ post.excerpt }}
+            </div>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </section>
+
+    {% include footer.html %}
+  </body>
+</html>
