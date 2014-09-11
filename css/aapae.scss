@@ -13,6 +13,7 @@ $large-screen:  new-breakpoint(min-width 901px 12);
 
 $font-size:     20px;
 $buffer:        200px;
+$width:         700px;
 
 @include media($mobile) {
   font-size: 16px;
@@ -26,7 +27,7 @@ $dark:					#6A739E;
 $light:					#9395C5;
 $lightest:			#95A3E4;
 $darkgrey:			#424242;
-$lightgrey:			#666666;
+$lightgrey:			#CCCCCC;
 
 @mixin space {
   margin: auto; 
@@ -46,7 +47,7 @@ $lightgrey:			#666666;
   }
 }
 
-@mixin wrapper($w: 700px) {
+@mixin wrapper($w: $width) {
   max-width: $w;
   margin: auto;
 }
@@ -75,13 +76,15 @@ html {
   color: $darkgrey;
 }
 
-h1, h2, h3, h4, h5, p, ul, li { 
+h1, h2, h3, h4, h5, p, ul, li, pre { 
   @include trim;
   margin-bottom: $font-size; 
   line-height: 1.3em;
   font-weight: 300;
 }
 
+h1 { font-size: 2em; margin-top: $font-size * 1.5; }
+h2 { font-size: 1.5em; margin-top: $font-size * 1.5; }
 
 a { text-decoration: none; color: darken($dark, 10); }
 a:hover { text-decoration: none; color: $light;  }
@@ -98,9 +101,7 @@ section {
 
 .home { 
   text-align: center;
-
   .hero {
-
     h1, h2, h3, h4, h5, h6, p {
       @include trim;
     } 
@@ -114,7 +115,7 @@ section {
         padding: $buffer / 2 1em;
       }
       @include media($mobile) {
-        margin-top: $buffer / 4;
+        margin-top: 0;
         text-align: center;
         padding: $buffer / 4 1em;
      }
@@ -130,7 +131,6 @@ section {
     @include invert;
   }
 
-
   .signup { 
     @include invert($light);
 
@@ -145,7 +145,6 @@ section {
     }
   }
 
-    
   .bullets {
     @include wrapper(900px);
     overflow: auto;
@@ -186,18 +185,63 @@ section {
     font-size: 1.2em; 
     margin-bottom: $font-size /2 ;
   }
+
+  .post {
+    margin-bottom: $font-size * 2;
+    margin-left: 0;
+  }
+  .post-meta {
+    margin: 0;
+  }
+  .excerpt {
+    * {
+      font-size: 1em;
+      margin-top: $font-size;
+    }
+  }
 }
 .post { 
   list-style: none; text-align: left; 
-  margin-bottom: $font-size * 2;
+  li { margin-left: 1em; }
+
+  .post-header {
+    position: absolute; 
+    top: 2em;
+  }
+
+  .post-title {
+    width: 100%;
+    @include media($large-screen) {
+      width: $width /1.1;
+    }
+    @include wrapper;
+    border-bottom: 1px solid;   
+    font-size: 1em;
+    margin: 0;
+  }
+
+  .post-meta {
+    margin-top: 0.5em;
+  }
 }
+
+.events {
+  h2 {
+    margin-bottom: 0;
+  }
+}
+
 .post-meta {
   font-size: 0.8em;
 }
 
 footer { 
-  @include space; background: $lightgrey; color: white; margin-bottom: 0; 
+  @include space; background: $lightgrey; color: $darkgrey; margin-bottom: 0; 
+  text-align: right; line-height: 2em; font-size: 0.8em;
 
+  a { color: $darkgrey; }
+  a:hover { color: $dark; }
+  span { padding: 0.5em; }
   .wrapper {
     @include wrapper;
   }

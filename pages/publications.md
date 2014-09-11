@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-### Newsletters (Australian Ethics)
+## Newsletters (Australian Ethics)
 
 - Australian Ethics - May, 2014
 - Australian Ethics -- May, 2013
@@ -30,7 +30,7 @@ From the 2009 Annual Conference
 * Abstracts and Participants
 
 
-### AGM Reports
+## AGM Reports
 
 - AGM Report 2010
 - AGM Report 2009
@@ -43,25 +43,25 @@ From the 2009 Annual Conference
 - Archive (AGM Reports)
 
 
-### Articles
+## Articles
 
 - [ *.pdf ]  Roderick O'Brien (2004) Recent "Just War" Commentaries in the People's Republic of China
 Archive (Articles)
 
 
-### Conference Reports
+## Conference Reports
 
 - [ *.pdf ]  Conference Report 2004
 Archive (Conference Reports)
 
 
-### Correspondence
+## Correspondence
 
 - [ *.pdf ]  J. Morgan Mar 2002
 Archive (Correspondences)
 
 
-### Presidential Addresses
+## Presidential Addresses
 
 - [ *.pdf ]  Presidential Address 2006  (Chris Provis)
 - [ *.pdf ]  Presidential Address 2005  (Chris Provis)
@@ -69,13 +69,13 @@ Archive (Correspondences)
 Archive (Presidential Addresses)
 
 
-### Proceedings
+## Proceedings
 
 Post-conference materials from the 2003AAPAE Conference, including refereed papers and a book of abstracts, are available from the Centre for International Corporate Governance Research (CICGR) website by selecting AAPAE.
 Archive (Proceedings)
 
 
-### Reviews
+## Reviews
 
 - [ *.pdf ]  Review by Andrew Alexandra: Seumas Miller, Peter Roberts & Edward Spence (2005) Corruption & Anti-Corruption: An Applied Philosophical - Approach
 - [ *.pdf ]  Review by Sue Knight & Carol Collins: Linda Newman & Lois Pollnitz (2005) Working with Children & Families: Professional, Legal & Ethical Issues
