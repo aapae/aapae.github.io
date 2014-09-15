@@ -41,6 +41,7 @@ $lightgrey:			#CCCCCC;
     padding-bottom: 5px;
     padding-left: 1em;
     padding-right: 1em;
+    min-height: 380px;
   }
   @include media($tablet) {
     padding: 75px 1em;
@@ -105,6 +106,59 @@ section {
     overflow: hidden;
   }
 }
+
+.site.navigation {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  text-align: left;
+  z-index: 10;
+  @include media($mobile) {
+    width: 100%;
+    top: 0; left: 0;
+    text-align: center;
+  }  
+
+  .trigger {
+    color: $dark;
+    @include media($mobile) {
+      background: $dark;
+      color: white;
+      a { color: white; }
+      padding: 0.25em;
+    }
+  }
+  ul { 
+    margin: 0; opacity: 0.0;
+    @include transition(opacity, 0.5s);
+    @include media($mobile) {
+      width: 100%;
+      padding-bottom: 0.5em;
+    }  
+  }
+  li { 
+    list-style:none; 
+    margin: 0;
+    padding-right: 0.5em 1em 0.5em 0;
+    @include media($mobile) {
+      background: $dark;
+      a { color: white; }
+    }
+  }
+  li:hover {
+    @include media($mobile) {
+      background: lighten($dark, 5);
+      a { color: white; }
+    }    
+  }
+}
+.site.navigation:hover > ul {
+  opacity: 1.0;
+  background: white;
+  @include transition(opacity, 0.8s);
+}
+
+.site-header { padding-top: 2em; }
 
 .home { 
   text-align: center;
@@ -180,19 +234,6 @@ section {
   }
 }
 
-.site-header { 
-  display: none;
-  position: fixed; top: 10px; left: 5px;
-  background: $dark; color: white;
-  padding: 1em;
-  border-radius: 3px;
-  a { color: white; display: none; }
-  a:hover { color: darken(white, 15); }
-}
-.site-header:hover {
-  @include animation-duration(2s);
-  a { display: block; }
-}
 
 .quote { 
   font-size: 1.5em; 
@@ -226,8 +267,9 @@ section {
   li { margin-left: 1em; }
 
   .post-header {
-    position: absolute; 
-    top: 4em;
+    position: relative; 
+    top: -1em;
+    z-index: 1;
   }
 
   .post-title {
