@@ -72,6 +72,7 @@ $lightgrey:			#CCCCCC;
 * { @include trim; }
 
 html { 
+  height: 100%;
   font-size: $font-size; font-family: 'Merriweather', serif; font-weight: 300;
   border-top: 5px solid $dark;
   color: $darkgrey;
@@ -99,7 +100,6 @@ a:hover { text-decoration: none; color: $light;  }
 
 section { 
   @include space; 
-  
   .wrapper {
     @include wrapper;
     padding: 1em;
@@ -161,6 +161,7 @@ section {
 .site-header { padding-top: 2em; }
 
 .home { 
+  min-height: 100vh;
   text-align: center;
   .hero {
     h1, h2, h3, h4, h5, h6, p {
