@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Events
-permalink: /events/
+title: AAPAE Blog
+permalink: /blog/
 ---
 
 <ul class="post-list events">
-  {% for post in site.categories.events %}
+  {% for post in site.posts %}
     <li class="post">
       <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
       <span class="post-meta">{{ post.conference-dates }}</span>
