@@ -88,15 +88,20 @@ h1, h2, h3, h4, h5, p, ul, li, pre {
   font-weight: 300;
 }
 
-pre {
-  line-height: 1em;
-}
-
 h1 { font-size: 2em; margin-top: $font-size * 1.5; }
 h2 { font-size: 1.5em; margin-top: $font-size * 1.5; }
 
 a { text-decoration: none; color: darken($dark, 10); }
 a:hover { text-decoration: none; color: $light;  }
+
+pre {
+  line-height: 1em;
+}
+
+blockquote { 
+  border-left: 10px solid $lightgrey;
+  padding-left: 1.5em;
+}
 
 section { 
   @include space; 

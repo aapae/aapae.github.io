@@ -6,16 +6,16 @@ permalink: /publications/
 
 ## Newsletters (Australian Ethics)
 
-- Australian Ethics - May, 2014
-- Australian Ethics -- May, 2013
-- Australian Ethics--December, 2012
-- Australian Ethics-- June, 2012
-- Australian Ethics -- December, 2011
-- Australian Ethics -- May, 2011
-- Australian Ethics -- December, 2010
-- Australian Ethics -- May, 2010
-- Australian Ethics -- December 2009
-- Australian Ethics -- April 2009
+- [Australian Ethics May, 2014](/documents/Australian Ethics-5-2014.pdf)
+- [Australian Ethics May, 2013](/documents/Australian Ethics-5-2013.pdf)
+- [Australian Ethics December, 2012](/documents/Australian Ethics-12-2012.pdf)
+- [Australian Ethics June, 2012](/documents/Australian Ethics-6-2012.pdf)
+- [Australian Ethics December, 2011](/documents/Australian Ethics-12-2011.pdf)
+- [Australian Ethics May, 2011](/documents/Australian Ethics-5-2011.pdf)
+- [Australian Ethics December, 2010](/documents/Australian Ethics-12-2010.pdf)
+- [Australian Ethics May, 2010](/documents/Australian Ethics-5-2010.pdf)
+- Australian Ethics December 2009
+- Australian Ethics April 2009
 - [ *.pdf ]  Newsletter Nov 1995
 - Archive (Newsletters)
 
