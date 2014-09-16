@@ -299,6 +299,13 @@ section {
   font-size: 0.8em;
 }
 
+#mc-embedded-subscribe-form {
+
+  label { display: none;}
+  input { margin: 0 1px; }
+  .email { color: #666; font-family: sans-serif; padding: 0.75em 0.5em 0.5em 1em; line-height: 1.1em; }
+}
+
 footer { 
   @include space; background: $lightgrey; color: $darkgrey; margin-bottom: 0; 
   text-align: right; line-height: 2em; font-size: 0.8em;
