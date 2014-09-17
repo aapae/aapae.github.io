@@ -26,13 +26,13 @@ Membership of the AAPAE is open to individuals and institutions. Membership fees
 - $200 institutions (includes one hardcopy of REIO Conference Proceedings)
 - $20 concession: students and low income (plus optional $40 for hardcopy of REIO Conference Proceedings)
 
-To join, fill in a membership form (*.pdf) and send it along with a cheque (for the appropriate amount) made payable to "AAPAE", or EFT (account details are on the form), or with your credit card details, to the following address:
+To join, fill in a [membership form](/documents/membership2006.pdf) and send it along with a cheque (for the appropriate amount) made payable to "AAPAE", or EFT (account details are on the form), or with your credit card details, to the following address:
 
-		AAPAE
-		c/o 37 Kitchener Street
-		Maroubra, New South Wales
-		Sydney, NSW 2035
-		Australia
+> AAPAE  
+> c/o 37 Kitchener Street  
+> Maroubra, New South Wales  
+> Sydney, NSW 2035  
+> Australia  
 
 Please include your postal address, your telephone numbers, your email address; and let us know whether you would like to receive the newsletter electronically rather than in hard copy by post.
 
