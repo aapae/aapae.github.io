@@ -1,23 +1,19 @@
 # AAPAE
 
+This is the Australian Association of Professional and Applied Ethics website admin and repo.
 
 ### Australian Association of Professional and Applied Ethics
 
 The purpose of the AAPAE is to encourage awareness of applied ethics as a significant area of concern, and to foster discussion of issues in applied ethics. It provides a meeting point for practitioners from various fields together with academics with specialist expertise. It welcomes everyone who wants or needs to think and talk about applied or professional ethics. The AAPAE also attempts to foster connections with special interest groups.
 
 
-### Website Layout
+## Website Layout
 
 The new site is laid out in the following manner:
 
 		- homepage
 		- about
-			- what we do
-			- people
-			- history
-		- blog
-			- informative-posts-for-practitioners
-			- ...
+		- people
 		- contact
 		- events
 			- 21st-annual-aapae-conference
@@ -25,24 +21,27 @@ The new site is laid out in the following manner:
 		- membership
 		- publications
 			- Australian Ethics - May, 2014
-			- ...
-		- resources
+			- Informative Articles for Practitioners
+			- Book Reviews about ethical stuff
 
 There is no longer a html sitemap as this information is now contained in the footer of every pages (a sitemap.xml exists however to help google index content).
 
-### Updating Content
+
+## Updating Content
+
+It is very easy to add or edit content on the website.  All you need to do is signup/login and edit.
 
 
-#### Registrations
+### Sign Up
 
-Website admins will need to register an account here on [github](https://github.com/join) and notify [Dave Kinkead](dave@kinkead.com.au) of their github username.  Once this has been completed, you'll have read/write access to this repository.
+Website admins will need to register an account here on [github](https://github.com/join) and notify [Dave Kinkead](mailto:d.kinkead@uq.edu.au) of their github username.  Once this has been completed, you'll have read/write access to this repository.
 
 
-#### Adding content
+### Adding content
 
 Any content you add to this repo will automatically be compiled and deployed to the [aapae.org.au](http://aapae.org.au) website.
 
-All content is written in [Markdown](http://en.wikipedia.org/wiki/Markdown) - a human friendly plain text syntax that can be converted to HTML by a computer.  If you can write an email, you can write markdown, and [cheatsheet can be found here](http://assemble.io/docs/Cheatsheet-Markdown.html).
+All content is written in [Markdown](http://en.wikipedia.org/wiki/Markdown) - a human friendly plain text syntax that can be converted to HTML by a computer.  If you can write an email, you can write markdown, and [cheat sheet can be found here](http://assemble.io/docs/Cheatsheet-Markdown.html).
 
 
 #### Pages
@@ -76,3 +75,23 @@ Most other content will be a type of post which live in the [_posts](/_posts/) d
 
 All pages and posts must use the `.md` extension.
 
+
+#### People
+
+Information about people lives in it's own [_people](/_people/) directory.  Just like posts and pages, you add metadata and content.
+
+		---
+		name: Hugh Breakey
+		role: President
+		affiliation: Griffith University
+		address: Institute for Ethics, Governance and Law, Griffith University, Nathan Campus, Brisbane, Qld. 4122  
+		phone: (07) 3735-5189  
+		email: h.breakey@griffith.edu.au  
+		blog: http://hughbreakey.blogspot.com.au/  
+		---
+
+		Hugh would write his profile here...
+
+## Questions
+
+If you have any questions, queries, or requests, please [create an issue](https://github.com/aapae/aapae.github.io/issues/new) on the issue tracker.  This will automatically notify the website maintainer and serve as a FAQ for future reference.
