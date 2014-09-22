@@ -305,6 +305,11 @@ section {
   font-size: 0.8em;
 }
 
+.contact {
+  margin-top: $font-size;
+  .detail { display: block; }
+}
+
 #mc-embedded-subscribe-form {
 
   label { display: none;}
