@@ -2,6 +2,7 @@
 layout: page
 title: People
 permalink: /people/
+search_omit: true
 ---
 
 <ul class="post-list events">

@@ -113,57 +113,6 @@ section {
   }
 }
 
-.site.navigation {
-  position: absolute;
-  top: 25px;
-  left: 25px;
-  text-align: left;
-  z-index: 10;
-  @include media($mobile) {
-    width: 100%;
-    top: 0; left: 0;
-    text-align: center;
-  }  
-
-  .trigger {
-    color: $dark;
-    @include media($mobile) {
-      background: $dark;
-      color: white;
-      a { color: white; }
-      padding: 0.25em;
-    }
-  }
-  ul { 
-    margin: 0; opacity: 0.0;
-    @include transition(opacity, 0.5s);
-    @include media($mobile) {
-      width: 100%;
-      padding-bottom: 0.5em;
-    }  
-  }
-  li { 
-    list-style:none; 
-    margin: 0;
-    padding-right: 0.5em 1em 0.5em 0;
-    @include media($mobile) {
-      background: $dark;
-      a { color: white; }
-    }
-  }
-  li:hover {
-    @include media($mobile) {
-      background: lighten($dark, 5);
-      a { color: white; }
-    }    
-  }
-}
-.site.navigation:hover > ul {
-  opacity: 1.0;
-  background: white;
-  @include transition(opacity, 0.8s);
-}
-
 .site-header { padding-top: 2em; }
 
 .home { 
@@ -316,6 +265,112 @@ section {
   input { margin: 0 1px; }
   .email { color: #666; font-family: sans-serif; padding: 0.75em 0.5em 0.5em 1em; line-height: 1.1em; }
 }
+
+
+.site.navigation {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  text-align: left;
+  z-index: 10;
+  @include media($mobile) {
+    width: 100%;
+    top: 0; left: 0;
+    text-align: center;
+  }  
+
+  .trigger {
+    color: $dark;
+    @include media($mobile) {
+      background: $dark;
+      color: white;
+      a { color: white; }
+      padding: 0.25em;
+    }
+  }
+  ul { 
+    margin: 0; opacity: 0.0;
+    @include transition(opacity, 0.5s);
+    @include media($mobile) {
+      width: 100%;
+      padding-bottom: 0.5em;
+    }  
+  }
+  li { 
+    list-style:none; 
+    margin: 0;
+    padding-right: 0.5em 1em 0.5em 0;
+    @include media($mobile) {
+      background: $dark;
+      a { color: white; }
+    }
+  }
+  li:hover {
+    @include media($mobile) {
+      background: lighten($dark, 5);
+      a { color: white; }
+    }    
+  }
+}
+.site.navigation:hover > ul {
+  opacity: 1.0;
+  background: white;
+  @include transition(opacity, 0.8s);
+}
+
+.search-bar {
+  $search-bar-border-color: $dark;
+  $search-bar-border: 1px solid $search-bar-border-color;
+  $search-bar-background: lighten($search-bar-border-color, 10);
+
+  position: absolute; 
+  top: $font-size; right: $font-size;
+  display: inline-block;
+
+  input {
+    @include box-sizing(border-box);
+    display: block;
+    border: $search-bar-border;
+  }
+
+  div.search-and-submit {
+    position: relative;
+
+    input[type=search] {
+      @include appearance(none);
+      width: 100%;
+      padding: .5em .8em;
+      font-size: .9em;
+      font-style: italic;
+      border-radius: 3px;
+      margin: 0;
+      opacity: 0.5;
+    }
+
+
+    button[type=submit] {
+      position: absolute;
+      top: 0; right: 0; bottom: 0;
+      background: $dark;
+      outline: none;
+      border-radius: 3px;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+      padding: 5px 10px;
+      min-height: $font-size *2;
+
+      img {
+        height: 12px;
+        opacity: .7;
+      }
+    }
+  }
+}
+.search-bar:hover  input[type=submit] {
+  opacity: 1.0;
+  @include transition(opacity, 0.8s);
+}
+
 
 footer { 
   @include space; background: $lightgrey; color: $darkgrey; margin-bottom: 0; 
