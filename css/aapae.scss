@@ -327,6 +327,10 @@ section {
   top: $font-size; right: $font-size;
   display: inline-block;
 
+  @include media($mobile) {
+    display: none;
+  }
+
   input {
     @include box-sizing(border-box);
     display: block;
@@ -369,6 +373,10 @@ section {
 .search-bar:hover  input[type=submit] {
   opacity: 1.0;
   @include transition(opacity, 0.8s);
+}
+
+.search-results { 
+  min-height: 25vh;
 }
 
 
