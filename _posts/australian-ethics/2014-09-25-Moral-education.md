@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why should moral education involve moral philosophy
-categories: australian ethics
+categories: australian-ethics
 date: 25 September 2014
 ---
 
