@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Search Results
+permalink: /search/
 search_omit: true
 ---
 
@@ -8,15 +9,16 @@ search_omit: true
   <p data-search-found>
     <span data-search-found-count></span> result(s) found for &ldquo;<span data-search-found-term></span>&rdquo;.
   </p>
-  <div data-search-results></div>
+
+  <ul class="post-list search-results" data-search-results>
+  </ul>
 
   <!-- Search result template -->
   <script type="text/x-template" id="search-result">
-    <div>
-      <h1><a href="##Url##">##Title##</a></h1>
-      <h2><a href="##Url##">##Date##</a></h2>
-      <a href="##Url##">Read &ldquo;##Title##&rdquo;</a>
-    </div>
+    <li class="post">
+      <h2><a href="##Url##">##Title##</a></h1>
+      <div class="excerpt">##Excerpt##</div>
+    </li>
   </script>
 
   <!-- jQuery - required but can be moved to the <head> -->
