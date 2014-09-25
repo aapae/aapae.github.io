@@ -43,3 +43,5 @@ If moral education needs moral philosophy, and moral philosophy needs high theor
 Most moral theories build on a core insight. Utilitarianism tells us consequences for others’ wellbeing matter. Deontology stresses that morality requires each person accepting they are duty-bound to act in certain ways towards other people. Virtue theory reminds us that character drives action, and that ethical life carries its own rewards. These insights all provide valuable perspectives on the larger mosaic of human moral life. Moral education is at its best when it introduces students to these different perspectives, and their unique insights.
 
 For ordinary people trying to think through practical moral questions, it is the insights (and not the theories) that matter most
+
+This piece originally appeared in [The Conversation](http://theconversation.com/why-moral-education-should-involve-moral-philosophy-31675)
