@@ -73,7 +73,7 @@ Most other content will be a type of post which live in the [_posts](/_posts/) d
 		Then put your content here
 
 
-All pages and posts must use the `.md` extension.
+To create a new post, click the `+` button and name the file `YYYY-MM-DD-post-title-in-lower-case.md`  The date is simply today's date and the title should be in all lower case with only alphanumeric characters.
 
 
 #### People
