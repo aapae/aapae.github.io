@@ -1,7 +1,6 @@
 ---
 name: Alan Tapper  
 role: Committee Member
-Beaconsfield, WA 6162  
 phone: 0428 153 315  
 fax: (03) 9925-5986  
 email: alantapper@gmail.com  
