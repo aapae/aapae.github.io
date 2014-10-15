@@ -41,4 +41,4 @@ ISBN: 9781784412456
 
 *Breakey, H. (2012). Intellectual Liberty: Natural Rights and Intellectual Property. Farnham, Surrey: Ashgate*, Robin Tapper 
 
-[View the full table of contents here] (http://www.emeraldinsight.com/doi/book/10.1108/S1529-2096201412)
+[View the full table of contents here](www.emeraldinsight.com/doi/book/10.1108/S1529-2096201412) 
