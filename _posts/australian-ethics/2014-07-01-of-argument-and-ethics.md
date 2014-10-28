@@ -1,0 +1,49 @@
+---
+layout: post
+title:  Of argument and ethics
+date:   1 Jul 2014
+author: Hugh Breakey 
+categories: australian-ethics
+---
+
+One of the most refreshing things about the AAPAE, in my view, is the way it brings together moral philosophers and reflective practitioners, allowing the work of each to enrich the other’s understanding. The pages of Australian Ethics in recent years explore this intriguing relationship between philosophical ethics and real-world morals, for example in the exchanges between Peter Bowden and myself in the December 2012 Issue.
+
+This issue continues this exploration. In what follows, Alan Tapper and Stephan Millett question whether moral philosophy has really helped our understanding of professional ethics. It is an important contribution, and one I think that every member of the AAPAE will enjoy reflecting on.
+
+Here, I want to consider a different way philosophy and ethics might intertwine, namely in the common ground between norms of argument and norms of ethics. The thought is this: Arguing well, in the philosophical sense, involves taking seriously what people say—and taking seriously what people say is one way of treating them with respect. As such, teaching people to argue well, and to do so naturally and instinctively, helps them act morally.
+
+I first started to really consider this issue when I recently found myself mired in the Comments section of an online website. In my case, it was the academic-journalist website, The Conversation, but I think what I say will resonate with anyone who has waded into the to-and-fro of dialogue on just about any online discussion-board or comments section, or even on Facebook or Twitter, at least when the debate touches on moral and political views. If anything, we might suspect discussion on websites like The Conversation to be of a relatively high standard. Not only are the articles there written by academics, and so usually well-informed and bolstered with evidence, moderators patrol the comments section, and (to stymie anonymous trolling) everyone must use their real names. 
+
+Yet even with such measures in place, the standard of argument leaves much to be desired. I’m not speaking here of ‘trolls’, who just leave nasty comments to upset their victims, but rather about many ordinary people who (it seems to me) genuinely want to contribute to a discussion but succeed only in diminishing or even destroying it.
+
+In my experience, once responders ascertain that a contribution (either the original article, or an earlier comment) maintains a position opposing their own moral or political view, they will typically engage one or more of the following four modes of response (let’s call the contribution they are responding to ‘X’). Responders will routinely:
+
+1. Interpret X in the most extreme and unqualified way possible. 
+
+2. Demand that implementing X would inevitably wind up creating a morally catastrophic situation, and that the author of X either endorses this outcome or callously fails to acknowledge its inevitability.
+
+3. Demand that the assertion of X must be driven by the most extreme and unpalatable moral principle imaginable.
+
+4. Demand that someone could only hold that moral principle if they were utterly evil, irrational, ignorant or ideologically duped. 
+
+Sometimes, opening with innocent-seeming phrases like ‘So basically you’re saying that…’, a single comment can manage to work its way through all four modes of response. Such tactics, in my experience, are not limited to one side or another of the political divide. Both progressive and conservative, left and right, employ them lavishly. The prevalence of these modes of response helps explain the oft-invoked Godwin’s Law: “As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches 1.” Response 1 can do this by implying X resembles some position or policy executed by the Nazis. Response 2 says implementing X would lead to Nazism; Response 3 says X’s underlying principle accords with Nazism, while Response 4 says that the reasons for accepting X’s underlying principle would be endorsed by Nazis.
+
+The more philosophical readers may have immediately recognized various sorts of informal logic fallacies (slippery slope, ad hominem) in the modes of response listed above, but I think the root cause of them all is the ‘straw-person’ fallacy; namely, caricaturing an opponent’s position by interpreting what they have said, and their reasons for saying it, in the most uncharitable way possible. The straw-person fallacy works by avoiding the actual argument that has been presented, and in its place erecting a quite new argument (the ‘straw-person’ or ‘straw-man’) that is easy to defeat. Constructing a straw-person represents an improper maneuver according to the standards of philosophical argument because it is a non sequitur. Rather than responding to the argument at hand, it responds to some other argument entirely. On a logical level, the straw-person-response at best proves irrelevant to the issue at hand. More usually however, it serves to distract attention away from the actual position someone has proposed, and makes it appear that the defeat of the caricatured argument represents a defeat of the proposed position itself.
+
+So much establishes, I hope, that these four modes of response fail logically and philosophically. But are they also a moral failing? And even if they are, does this sort of moral failure really matter? I think the prevalence of such responses does matter: they fail to respect others with opposing views and they contribute to an unhealthy political environment.
+
+First, these responses inflict an immediate harm. The original author who has been dealt with in this way normally either flees the discussion or retaliates angrily. Even if they respond constructively, trying to clarify their position, a second wave of the same straw-person-ing responses typically drives them into frustration. The four responses demean them, precluding the possibility that the author is a reasonable and reflective person who could make a contribution to the dialogue. As a result, the author retreats, wounded and insulted.
+
+Such responses also undermine the potential of these domains to play a genuine role in the participatory side of democracy—in people being exposed to and engaging with other citizens who hold opposing views. Potentially, this could impact upon people’s judgments about political legitimacy. In a democracy, legitimacy hinges on accepting that we have reason to comply with democratically chosen policies and laws (except in extreme cases), even if we morally oppose them, voted against them and plan to vote against them in the future. The more we view our fellow citizens as reasonable people holding morally defensible views, the more we will tend to apprehend democratic processes and legislation as legitimate, even if we remain personally opposed to any given result.
+
+(Of course, it might turn out one’s political opponents really are morally beyond the pale. It may turn out that their reasons for advancing some policy actually are intolerant, racist or totalitarian. But this judgment can only happen at the end of the discussion, not the beginning.)
+
+If rampant straw-person-ing yields these morally worrisome impacts, then why do so many responders engage in it? And why do those who share their political allegiance invariably seem to endorse these tactics? Do the responders think they actually have a chance of changing the original author’s mind by using these tactics? Surely not. If one wants to persuade someone of the errors of their view, then the necessary first step must be to engage with the author’s actual views, and not some other views. 
+
+I confess I do not know why the practice riddles online commentary. I could darkly speculate that the responders draw on these tactics unconsciously in order to cement a pleasing worldview where their opponents are obviously wrong and immoral. This makes for a neat world where they can wallow in self-righteous outrage at anyone who opposes them. But this is mere speculation on my part (and probably involves my own collapse into Response 4 above).
+
+One other possibility, though, is that responders respond in these ways because they have never learned any other way. After all, we are not born knowing the norms of philosophical argument. It takes effort, patience, concentration and empathy to understand what a person is really saying, as distinct from what we presume they are probably saying. Such virtues can be difficult to muster when a person opposes our views, and the instinctual reaction is to defend ourselves.
+
+If that is right, it underscores why teaching philosophy (especially in ‘critical reasoning’ and ‘informal logic’ courses and elements of courses) possesses real ethical value. In teaching the norms of argument in schools and universities, we provide learners with tools and instincts that allow them to do something that is notoriously difficult to do: to genuinely listen to what people from other perspectives say, and to understand their reasons for saying it. True, giving people the tools to act rightly does not guarantee they will be motivated to do so, but it does at least open the possibility of their doing so. And sometimes being empowered to act in a particular way, to live up to a particular standard (in this case of philosophical excellence), actually does count as a reason for behaving in that way. 
+
+And as Gibbs argued in his 2010 Moral Development and Reality, the capacity and practice of trying to see things from another person’s perspective, especially in the course of argument, yields impressive results in terms of moral development. Philosophy itself, done properly, can make us better people.
