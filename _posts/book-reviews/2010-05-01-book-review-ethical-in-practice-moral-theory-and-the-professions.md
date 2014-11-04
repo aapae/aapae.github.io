@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ethics in practice: Moral theory and the professions”
-authors: Andrew Alexandra and Seumas Miller, UNSW Press, 2009."
+title:  "Ethics in practice: Moral theory and the professions"
+authors: Andrew Alexandra and Seumas Miller
 date:   1 May 2010
 reviewer: Peter Bowden
 categories: book-reviews
