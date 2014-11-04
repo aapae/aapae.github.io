@@ -223,6 +223,8 @@ section {
     margin: 0;
   }
   .excerpt {
+    max-height: 10em;
+    overflow: hidden;
     * {
       font-size: 1em;
       margin-top: $font-size;
