@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Book notice: applied ethics – strengthening ethical practices"
+title:  Applied Ethics – Strengthening ethical practices
 date:   1 December 2011
 authors: Peter Bowden
 reviewer: Peter Bowden
