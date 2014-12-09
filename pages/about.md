@@ -29,7 +29,7 @@ The AAPAE is an incorporated body administered by an executive committee under a
 
 # History
 
-The Australian Association for Professional and Applied Ethics (AAPAE) grew out of a conference on Teaching Applied Ethics held in Sydney in 1992.Academics and professionals from many different backgrounds met together, found a great deal of common ground, profited from their interchanges, and were eager to meet again on a regular basis. The next step was to form an association which could bring together people normally separated by traditional discipline boundaries. Hence the formation in 1993 of the AAPAE, a non-partisan, non-profit national umbrella organisation for all those concerned with applied ethics in its many forms.
+The Australian Association for Professional and Applied Ethics (AAPAE) grew out of a conference on Teaching Applied Ethics held in Sydney in 1992. Academics and professionals from many different backgrounds met together, found a great deal of common ground, profited from their interchanges, and were eager to meet again on a regular basis. The next step was to form an association which could bring together people normally separated by traditional discipline boundaries. Hence the formation in 1993 of the AAPAE, a non-partisan, non-profit national umbrella organisation for all those concerned with applied ethics in its many forms.
 
 
 # Executive Committee
