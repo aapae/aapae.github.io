@@ -1,8 +1,8 @@
 ---
 name: Marc Orlitzky
 role: Vice President
-affiliation: University of South Australia 
-address: School of Management, University of South Australia, Adelaide, SA  
+affiliation: UniSA Business School 
+address: University of South Australia, Adelaide SA 5000  
 email: marc.orlitzky@unisa.edu.au
 ---
 
