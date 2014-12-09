@@ -4,7 +4,7 @@ role: President
 affiliation: Institute for Ethics, Governance and Law
 address: Griffith University, Nathan Campus, Brisbane QLD 4122  
 phone: (07) 3735-5189  
-email: <a href="mailto: h.breakey@griffith.edu.au"> h.breakey@griffith.edu.au </a>  
+email: <a href="mailto: h.breakey@griffith.edu.au"> h.breakey@griffith.edu.au </a>
 blog: http://hughbreakey.blogspot.com.au/  
 ---
 
