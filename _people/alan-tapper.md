@@ -1,6 +1,8 @@
 ---
 name: Alan Tapper  
 role: Committee Member
+affiliation: John Curtin Institute of Public Policy
+address: Curtin University, Perth WA 6102
 phone: 0428 153 315  
 fax: (03) 9925-5986  
 email: alandtapper@gmail.com  
