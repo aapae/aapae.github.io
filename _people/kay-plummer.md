@@ -2,7 +2,7 @@
 name: Kay Plummer
 role: Treasurer
 affiliation: School of Accounting and Finance
-address: Charles Sturt University, Bathurst Campus NSW 2795 
+address: Charles Sturt University, Bathurst NSW 2795 
 phone: (02) 6338-4447  
 fax: (02) 6338-4649  
 email: <a href="mailto:kplummer@csu.edu.au?subject=AAPAE"> kplummer@csu.edu.au </a>  
