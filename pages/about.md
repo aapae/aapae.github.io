@@ -34,25 +34,11 @@ The Australian Association for Professional and Applied Ethics (AAPAE) grew out 
 
 # Executive Committee
 
-<ul class="post-list events">
+<ul class="post-list">
   {% for person in site.people | sort 'name' %}
-    <li class="post">
-      <h2><a class="post-link" href="#">{{ person.name }}</a></h2>
-      <span class="post-meta">{{ person.role }}</span>
 
-      <div class="contact">
-	      <span class="detail">{{ person.affiliation }}</span>
-	      <span class="detail">{{ person.address }}</span>
-	      <span class="detail">{{ person.phone }}</span>
-	      <span class="detail">{{ person.email }}</span>
-	      <span class="detail">{{ person.blog }}</span>
-	    </div>
+  {% include person.html %}
 
-      <div class="bio">
-        {{ person.content }}
-      </div>
-      
-   </li>
   {% endfor %}
 </ul>
 
