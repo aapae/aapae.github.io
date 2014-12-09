@@ -19,10 +19,6 @@ $width:         700px;
   font-size: 16px;
 }
 
-@media print {
-  $font-size: 12px;
-}
-
 
 //	Colours
 
@@ -410,4 +406,13 @@ footer {
   .wrapper {
     @include wrapper;
   }
+}
+
+@media print {
+  $font-size: 12pt;
+  font-size: 12pt !important;
+   body {
+      color: #000;
+      background: #fff;
+   }
 }
