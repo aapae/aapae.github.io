@@ -19,6 +19,10 @@ $width:         700px;
   font-size: 16px;
 }
 
+@media print {
+  $font-size: 12px;
+}
+
 
 //	Colours
 
@@ -254,6 +258,9 @@ section {
 
   .post-meta {
     margin-top: 0.5em;
+  }
+  .bio {
+    margin-top: $font-size;
   }
 }
 

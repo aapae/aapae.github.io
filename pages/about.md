@@ -48,7 +48,7 @@ The Australian Association for Professional and Applied Ethics (AAPAE) grew out 
 	      <span class="detail">{{ person.blog }}</span>
 	    </div>
 
-      <div class="excerpt">
+      <div class="bio">
         {{ person.content }}
       </div>
       

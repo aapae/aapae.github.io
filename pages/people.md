@@ -18,7 +18,7 @@ permalink: /people/
 	      <span class="detail">{{ person.blog }}</span>
 	    </div>
 
-      <div class="excerpt">
+      <div class="bio">
         {{ person.content }}
       </div>
       
