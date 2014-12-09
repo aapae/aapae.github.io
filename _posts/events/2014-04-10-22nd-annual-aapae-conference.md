@@ -14,4 +14,4 @@ The AAPAE Conference Committee warmly invites submissions for the 22nd Annual AA
 
 The conference will have both a refereed and non-refereed stream.  Refereed track papers are to be submitted consistent with the author guidelines (see below).  Authors are also asked to provide a short biography of no more than 100 words and an abstract of no more than 200 words when they submit their paper. Non-refereed track papers should be submitted in the form of an abstract of no more than 350 words, as well as a short biography of no more than 100 words. 
 
-Submissions for both streams should reach the conference convenor email: <a href="mailto:2015AAPAEConference@auckland.ac.nz?subject=22nd AAPAE Conference - Auckland NZ"> 2015AAPAEConference@auckland.ac.nz </a> no later than 15 May 2015.
+Submissions for both streams should reach the conference convenor email: <a href="mailto:2015AAPAEConference@auckland.ac.nz?subject=22nd AAPAE Conference, Auckland NZ"> 2015AAPAEConference@auckland.ac.nz </a> no later than 15 May 2015.
