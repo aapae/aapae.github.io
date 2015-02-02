@@ -1,10 +1,12 @@
 ---
 layout: post
-title: ETHICAL MINDSETS AND SPIRITUALITY
+title: Ethical Mindsets and Spirituality
 date: December 2014
 author: Dr Theodora Issa
 categories: australian-ethics
 ---
+
+
 In her research PhD thesis, Issa (2009) highlighted the strength of the relationship between ethical mindsets, spirituality, and aesthetics in the Australian Services Sector.  Issa's findings, further explored and triangulated by the data gathered through focus groups interviews, provide an exploration and identification of eight major components of these mindsets (i.e. aesthetic spirituality, religious spirituality, optimism, harmony and balance, personal truth, contentment, making a difference, and interconnectedness). These eight components recording high alphas, those ranged between 0.931 and 0.720, with their thirty-four dimensions recording high factor loading (high of 0.913 and low of 0.445).
 
 Indeed, an understanding of the ethical mindsets, not only at the Australian level, but the global level might assist us in understanding how to steer the global economy in the right direction. This is especially as the latest literature provides us with pointers of the change in direction of businesses and leadership including the individuals' moral engagement and how they are attracted to a specific business.  
@@ -30,9 +32,15 @@ Senior Lecturer
 School of Management (on Secondment), Curtin Business School
 email: theodora.issa@curtin.edu.au
 
-References
+
+#### References
+
 Boiral, O., Baron, C., & Gunnlaugson, O. (2014). Environmental Leadership and Consciousness Development: A Case Study Among Canadian SMEs. Journal of Business Ethics, 123(3), 363-83.
+
 Issa, T. (2009). Ethical mindsets, aesthetics and spirituality: A mixed-methods approach analysis of the Australian services sector. (PhD), School of Management, Curtin Business School: 361 - Available online through URL: http://espace.library.curtin.edu.au/R/?func=dbin-jump-full&object_id=131986&local_base=GEN01-ERA02. Perth: Curtin University of Technology
+
 Kish-Gephart, J., Detert, J., Trevino, L. K., Baker, V., & Martin, S. (2014). Situational Moral Disengagement: Can the Effects of Self-Interest be Mitigated? Journal of Business Ethics, 125(2), 267-85.
+
 Miska, C., Hilbe, C., & Mayer, S. (2014). Reconciling Different Views on Responsible Leadership: A Rationality-Based Approach. Journal of Business Ethics, 125(2), 349-60.
+
 Tsai, Y. H., Joe, S. W., Lin, C. P., & Wang, R. T. (2014). Modeling Job Pursuit Intention: Moderating Mechanisms and Socio-Environmental Consciousness. Journal of Business Ethics, 125(2), 287-98.
