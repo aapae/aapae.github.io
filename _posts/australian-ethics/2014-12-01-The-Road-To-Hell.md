@@ -1,10 +1,11 @@
 --- 
-  layout: post
-  title: THE ROAD TO HELL
-  date: December 2014
-  author: Gordon Young
-  categories: australian-ethics
+layout: post
+title: The Road to Hell
+date: December 2014
+author: Gordon Young
+categories: australian-ethics
 ---
+
 The Road to Hell
 Why naming and shaming paedophiles cannot be justified
 
@@ -48,5 +49,5 @@ At the end of the day, this issue really has nothing to do with paedophilia at a
 
 Want to protect your children from the horrors of the world?  Best you understand those horrors, lest you end up working on their side by accident.
 
-Gordon Young 
+Gordon Young   
 email: gwfyoung@gmail.com
