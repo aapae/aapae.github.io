@@ -4,54 +4,72 @@ title: Archives
 permalink: /archives/
 ---
 
-### AGM Reports
-
-- [ *.pdf ]  AGM Report 2002
-- [ *.pdf ]  AGM Report 2001
-- [ *.pdf ]  AGM Report 2000
-
-
-### Articles
-
-- [ *.pdf ]  Keith Joseph (1995) The Ethics of Peacekeeping
-
-
-### Conference Reports
-
-- [ *.pdf ]  Conference Report 2004
-
 
 ### Conferences
 
-- [ *.pdf ]  1998 AAPAE Annual Conference  Timetable
-- [ *.pdf ]  1999 AAPAE Annual Conference
-- [ *.pdf ]  2001 AAPAE Annual Conference
-- [ *.pdf ]  2002 AAPAE Annual Conference - with IIPE
-- [ *.pdf ]  2003 AAPAE Annual Conference
-- [ *.pdf ]  2004 AAPAE Annual Conference
+
+  - [2009](/documents/Abstracts_and_Bios_-_2009.pdf)
+  - [2004](/documents/aapae_conference_2004.pdf)
+  - [2003](/documents/aapae_conference_2003_notice.pdf)
+  - [2002](/documents/aapae_conference_2002_with_iipe.pdf)
+  - [2001](/documents/aapae_conference_2001.pdf)
+  - [1999](/documents/aapae_conference_1999.pdf)
+  - [1998](/documents/aapae_conference_1998.pdf)
 
 
-### Correspondence
+### AGM Reports
 
-- [ *.pdf ]  Letter from J. Morgan Mar 2002
+
+  - [2010](/documents/agm_report2010.pdf)
+  - [2009](/documents/agm_report2009.pdf)
+  - [2008](/documents/agm_report2008.pdf)
+  - [2007](/documents/agm_report2007.pdf)
+  - [2006](/documents/agm_report2006.pdf)
+  - [2005](/documents/agm_report2005.pdf)
+  - [2004](/documents/agm_report2004.pdf)
+  - [2003](/documents/agm_report2003.pdf)
+  - [2002](/documents/agm_report2002.pdf)
+  - [2001](/documents/agm_report2001.pdf)
+  - [2000](/documents/agm_report2000.pdf)
 
 
 ### Newsletters
 
-- [ *.pdf ]  The second AAPAE Newsletter, Vol 1, No 2 (Nov 95)
+
+  - [Summer 2014](/documents/Australian Ethics-12-2014.pdf)
+  - [Winter 2014](/documents/Australian Ethics-5-2014.pdf)
+  - [Winter 2013](/documents/Australian Ethics-5-2013.pdf)
+  - [Summer 2012](/documents/Australian Ethics-12-2012.pdf)
+  - [Winter 2012](/documents/Australian Ethics-6-2012.pdf)
+  - [Summer 2011](/documents/Australian Ethics-12-2011.pdf)
+  - [Winter 2011](/documents/Australian Ethics-5-2011.pdf)
+  - [Summer 2010](/documents/Australian Ethics-12-2010.pdf)
+  - [Winter 2020](/documents/Australian Ethics-5-2010.pdf)
+  - [Summer 2009](/documents/Newsletter-12-2009.pdf)
+  - [Winter 2009](/documents/Newsletter-April_2009.pdf)
+  - [Summer 1995](/documents/newsletter_nov1995.pdf)
 
 
-### Presidential Addresses
-
-- [ *.pdf ]  Presidential Address 1996
+### Articles & Reviews
 
 
-### Proceedings
+  - [Recent “Just War” Commentaries in the People’s Republic of China](/documents/article2004_obrien.pdf)
+  - [The Ethics of Peacekeeping](/documents/article1995_joseph.pdf)
+  - [Working with Children and Families](/documents/review2005_knight-collins.pdf)
+  - [Quagmires and Quandaries](/documents/review2005_harris.pdf)
+  - [Corruption and Anti-Corruption](/documents/review2005_alexandra.pdf)
 
-Post-conference materials from the 11th Annual AAPAE Conference 2003, including refereed papers and a book of abstracts, are available from the Centre for International Corporate Governance Research (CICGR) website by selecting AAPAE.
+
+### Miscellaneous 
 
 
-### Reviews
+  - [Presidential_Address-2009](/documents/Presidential_Address-2009.pdf)
+  - [Presidential_Address-2006](/documents/pres_address2006.pdf)
+  - [Presidential_Address-2005](/documents/pres_address2005.pdf)
+  - [Presidential_Address-2004](/documents/pres_address2004.pdf)
+  - [Presidential_Address-1996](/documents/pres_address1996.pdf)
+  - [Membership 2014](/documents/membership2014.pdf)
+  - [Membership 2006](/documents/membership2006.pdf)
+  - [Letters 2002](/documents/letter_mar2002_morgan.pdf)
+  - [2004 reports](/documents/conf_report2004.pdf)
 
-- [ *.pdf ]  Review by Andrew Alexandra:
-Seumas Miller, Peter Roberts & Edward Spence (2005) Corruption & Anti-Corruption: An Applied Philosophical Approach
