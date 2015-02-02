@@ -1,13 +1,10 @@
 --- 
 layout: post
-title: The Road to Hell
+title: The Road to Hell - Why naming and shaming paedophiles cannot be justified
 date: December 2014
 author: Gordon Young
 categories: australian-ethics
 ---
-
-The Road to Hell
-Why naming and shaming paedophiles cannot be justified
 
 As ethical issues go, it doesn't get much simpler than paedophilia. Individuals that specifically target the weakest and most vulnerable, purely for sexual gratification, hardly elicit empathy, after all.
 
