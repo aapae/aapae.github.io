@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Archives
-permalink: /archives/
+title: Newsletters, etc
+permalink: /newsletters/
 ---
 
-
+<!--
 ### Conferences
 
 
@@ -31,7 +31,7 @@ permalink: /archives/
   - [2002](/documents/agm_report2002.pdf)
   - [2001](/documents/agm_report2001.pdf)
   - [2000](/documents/agm_report2000.pdf)
-
+-->
 
 ### Newsletters
 
@@ -44,7 +44,7 @@ permalink: /archives/
   - [Summer 2011](/documents/Australian Ethics-12-2011.pdf)
   - [Winter 2011](/documents/Australian Ethics-5-2011.pdf)
   - [Summer 2010](/documents/Australian Ethics-12-2010.pdf)
-  - [Winter 2020](/documents/Australian Ethics-5-2010.pdf)
+  - [Winter 2010](/documents/Australian Ethics-5-2010.pdf)
   - [Summer 2009](/documents/Newsletter-12-2009.pdf)
   - [Winter 2009](/documents/Newsletter-April_2009.pdf)
   - [Summer 1995](/documents/newsletter_nov1995.pdf)
@@ -59,7 +59,7 @@ permalink: /archives/
   - [Quagmires and Quandaries](/documents/review2005_harris.pdf)
   - [Corruption and Anti-Corruption](/documents/review2005_alexandra.pdf)
 
-
+<!--
 ### Miscellaneous 
 
 
@@ -72,4 +72,4 @@ permalink: /archives/
   - [Membership 2006](/documents/membership2006.pdf)
   - [Letters 2002](/documents/letter_mar2002_morgan.pdf)
   - [2004 reports](/documents/conf_report2004.pdf)
-
+-->
