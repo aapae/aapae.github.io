@@ -23,7 +23,7 @@ Also, you are welcome to sign up to our email list (*.htm) if you haven't alread
 
 ## How to join?
 
-Membership of the AAPAE is open to individuals and institutions. Membership fees for 2014 are --
+Membership of the AAPAE is open to individuals and institutions. Membership fees for 2015 are --
 
 - $60 individuals (plus optional $40 for hardcopy of REIO Conference Proceedings)
 - $200 institutions (includes one hardcopy of REIO Conference Proceedings)
