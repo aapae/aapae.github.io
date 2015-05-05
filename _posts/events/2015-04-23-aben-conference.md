@@ -1,23 +1,19 @@
 ---
 layout: post
-title: upcoming aben conference
+title: 5th Annual Australasian Business Ethics Network (ABEN) Conference - A Colloquy on Ethics
 categories: events
 date: 23 April 2015
+location: Sydney
+conference-dates: Decmeber 7-8
 ---
-## 5th Annual Australasian Business Ethics Network (ABEN) Conference:
 
-## A Colloquy on Ethics
-
-Sydney, 7th and 8th December 2015
-
-Supported by the University of Sydney Business School and the Business & Professional Ethics Group
-
-## Call for Papers
+The AAPAE, supported by the University of Sydney Business School and the Business & Professional Ethics Group, invite calls for papers to the 5th Annual Australasian Business Ethics Network (ABEN) Conference - A Colloquy on Ethics, to be held in Sydney, 7th and 8th December 2015.
 
 #### Abstract and Full Paper Submission Deadline: 31 July 2015
 
 Submissions are now being invited for the 5th annual ABEN conference on business, ethics and business ethics (www.aben.org.au). Bringing academics, critics and practitioners together to discuss and debate the nature, intent, effects and futures of business ethics in Australasia and beyond, the ABEN conference is a key forum in the region for reflective, engaged and philosophical work in the area. The location for this year’s conference is in the Sydney CBD at the University of Sydney Business School campus. Once again, the conference is linked with publication opportunities in business ethics journals (The Journal of Business Ethics Education - and Philosophy of Management, the leading interdisciplinary journal with a focus on applied philosophy in management). Like the wider network from which it originates, the ABEN conference is inclusive – welcoming submissions that explore business ethics from a range of theoretical, empirical and practical positions and perspectives.
 The 2014 ABEN conference offered an opportunity to reflect on the role academia plays in the research, dissemination and teaching of ethics. Upon reflection, ABEN has always been proud of the inclusive nature of our annual conference, welcoming differing views and collegial discussions on what is termed ‘ethics’. To emphasize this tenet, the theme of this year’s conference is ‘A Colloquy on Ethics’, to highlight the dianoetic nature of our enquiry. Given the interdisciplinary nature of ABEN, papers considering all facets of business ethics and social responsibility research are welcome. The broad conference streams proposed at this stage are:
+
 * Foundational Issues in Business Ethics
 * The Problems of (Business) Ethics
 * Business Ethics Education
