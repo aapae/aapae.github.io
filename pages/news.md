@@ -6,7 +6,7 @@ permalink: /news/
 
 ### Announcements
 
-The 21st Annual AAPAE Conference, 2014. More details can be found in the events section of this website.
+The 22nd Annual AAPAE Conference, 2015. More details can be found in the events section of this website.
 
 
 ### Newsletters
