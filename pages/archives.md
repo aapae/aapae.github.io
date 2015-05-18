@@ -38,6 +38,7 @@ permalink: /newsletters/
 
   - [Summer 2014](/documents/Australian Ethics-12-2014.pdf)
   - [Winter 2014](/documents/Australian Ethics-5-2014.pdf)
+  - [Summer 2013](/documents/Australian Ethics-12-2013.pdf)
   - [Winter 2013](/documents/Australian Ethics-5-2013.pdf)
   - [Summer 2012](/documents/Australian Ethics-12-2012.pdf)
   - [Winter 2012](/documents/Australian Ethics-6-2012.pdf)
