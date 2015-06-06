@@ -11,6 +11,6 @@ If you would like to join the AAPAE, or want more information about membership o
 > Maroubra NSW  2035    
 > Australia  
 > Phone: +61(0) 421 064 708  
-> Fax: +612 9385 1029  
+> Fax: +612 9315-5410  
 > Email: <a href="mailto:info@aapae.org.au?subject=Enquiry">info@aapae.org.au</a>
 
