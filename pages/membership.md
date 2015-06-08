@@ -29,7 +29,7 @@ Membership of the AAPAE is open to individuals and institutions. Membership fees
 - $200 institutions (includes one hardcopy of REIO Conference Proceedings)
 - $20 concession: students and low income (plus optional $40 for hardcopy of REIO Conference Proceedings)
 
-To join, download and complete a [membership form](/documents/2015 AAPAE Membership(form).pdf) and send it along with a cheque (for the appropriate amount) made payable to "AAPAE", or EFT (account details are on the form), or with your credit card details, to the following address:
+To join, download and complete a [membership form](/documents/2015 AAPAE Membership.pdf) and send it along with a cheque (for the appropriate amount) made payable to "AAPAE", or EFT (account details are on the form), or with your credit card details, to the following address:
 
 > AAPAE  
 > c/o 37 Kitchener Street  
