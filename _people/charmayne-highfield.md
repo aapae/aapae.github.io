@@ -1,6 +1,6 @@
 ---
 name: Charmayne Highfield  
-role: Newsletter Editor
+role: Treasurer and Newsletter Editor
 affiliation: Singapore Accountancy Commission  
 phone: +65 9146-9520  
 email: charmayne@enya-lea.com
