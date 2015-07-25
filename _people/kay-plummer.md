@@ -1,6 +1,6 @@
 ---
 name: Kay Plummer
-role: Public Officer
+role: Public Officer (non-committee member)
 affiliation: School of Accounting and Finance
 address: Charles Sturt University, Bathurst NSW 2795 
 phone: (02) 6338-4447  
