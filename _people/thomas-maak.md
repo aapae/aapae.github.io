@@ -1,4 +1,4 @@
---- 
+---
 name: Thomas Maak
 role: Committee Member
 affiliation: UniSA Business School
