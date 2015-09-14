@@ -4,7 +4,7 @@ title: 5th Annual Australasian Business Ethics Network (ABEN) Conference - A Col
 categories: events
 date: 23 April 2015
 location: Sydney
-conference-dates: Decmeber 7-8
+conference-dates: Decmeber 7-8 2015
 ---
 
 The AAPAE, supported by the University of Sydney Business School and the Business & Professional Ethics Group, invite calls for papers to the 5th Annual Australasian Business Ethics Network (ABEN) Conference - A Colloquy on Ethics, to be held in Sydney, 7th and 8th December 2015.
