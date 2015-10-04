@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Why should moral education involve moral philosophy
-author: Hugh Breakey
 date: 25 September 2014
+author: Dr Hugh Breakey
+categories: australian-ethics
 ---
 
 Ethics are increasingly a part of the school curriculum, and practical introductory classes in applied ethics are part of the training that nurses, scientists and soldiers undergo.
