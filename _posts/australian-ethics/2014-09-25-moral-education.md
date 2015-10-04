@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why should moral education involve moral philosophy
-categories: australian-ethics
+author: Hugh Breakey
 date: 25 September 2014
 ---
 
