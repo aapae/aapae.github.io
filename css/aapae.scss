@@ -248,8 +248,10 @@ section {
     }
     @include wrapper;
     border-bottom: 1px solid;   
-    font-size: 1em;
+    font-size: 1.25rem;
     margin: 0;
+    padding-bottom: 0.25rem;
+    text-transform: capitalize;
   }
 
   .post-meta {

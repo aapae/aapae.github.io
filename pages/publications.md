@@ -10,11 +10,11 @@ permalink: /publications/
   {% for post in site.categories.australian-ethics %}
     <li class="post">
       <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+      <span class="post-meta">{% if post.author %}{{ post.author }} • {% endif %}{% if post.reviewer %}{{ post.reviewer }} • {% endif %}{% if post.meta %}{{ post.meta }} • {% endif %}{{ post.date | date: "%b %-d, %Y" }}</span>
 
-      <div class="excerpt">
-        {{ post.excerpt }}
-      </div>
-      
+      <!--
+      <p class="post-meta">{% if post.author %}{{ post.author }} • {% endif %}{% if post.reviewer %}{{ post.reviewer }} • {% endif %}{% if post.meta %}{{ post.meta }} • {% endif %}{{ post.date | date: "%b %-d, %Y" }}</p>
+      -->
    </li>
   {% endfor %}
 </ul>

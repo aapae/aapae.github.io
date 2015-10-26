@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Australia as bad as IS? Skewed criticism may leave you wondering
-categories: post
+categories: australian-ethics
 date: 24 May 2015
 ---
 
