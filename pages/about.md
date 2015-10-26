@@ -13,13 +13,14 @@ The formal aims of the AAPAE, as stated in its constitution, are:
 -  To facilitate networking between individuals and institutions working or interested in the area of professional and applied ethics.
 -  To foster community discussion of issues related to professional and applied ethics.
 -  To encourage a focus on the teaching of professional and applied ethics.
+-  To facilitate research into ways to strengthen ethical practice.
 -  To facilitate the organisation of conferences, meetings and other events in order to fulfil the above aims.
 -  To develop and distribute publications, including a newsletter and conference proceedings.
 
 
 # Rationale
 
-Ethics has had a high profile in Australia over the last decade. There is now a growing recognition of applied ethics as a multidisciplinary field, encompassing a wide variety of disparate areas, investigation of which has an important role to play in public, academic and professional life.
+Ethics has had a high profile in Australia over the last few decades. There is now a growing recognition of applied ethics as a multidisciplinary field, encompassing a wide variety of disparate areas, investigation of which has an important role to play in public, academic and professional life.
 
 
 # Organisation

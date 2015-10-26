@@ -18,14 +18,14 @@ Membership includes:
 - Discounted registration fee at the Annual National Conference
 - Discounted hardcopy of the edited AAPAE Conference Proceedings volume of Research in Ethics in Organisations (REIO). REIO is available online through Emerald Group Publishing.
 
-Also, you are welcome to sign up to our email list (*.htm) if you haven't already. You needn't be a member to sign up to this list.
+Also, you are welcome to sign up to our email list (see below) if you haven't already. You needn't be a member to sign up to this list.
  
 
 ## How to join?
 
-Membership of the AAPAE is open to individuals and institutions. Membership fees for 2015 are --
+Membership of the AAPAE is open to individuals and institutions. Membership fees for 2016 are --
 
-- $60 individuals
+- $80 individuals
 - $200 institutions
 - $20 concession: students and low income
 - Details regarding access to the REIO Conference Proceedings Journal will be updated soon.
