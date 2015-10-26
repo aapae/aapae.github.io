@@ -3,6 +3,7 @@ layout: post
 title: Is Australia as bad as IS? Skewed criticism may leave you wondering
 categories: australian-ethics
 date: 24 May 2015
+author: Dr Hugh Breakey
 ---
 
 Perpetrator of crimes against humanity, ethnic cleansing and cultural genocide. Documented serial violator of international law and the most fundamental human rights. Complicit in territorial aggression.
