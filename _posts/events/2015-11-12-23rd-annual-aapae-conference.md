@@ -1,10 +1,3 @@
-   ---
-    layout: event
-    title: 23rd Annual AAPAE Conference
-    categories: events
-    date: 12 Nov 2015
-    conference-dates: June 15-17, 2016
-    ---
 ## 2016 AAPAE Conference
 
 ### 15th – 17th June 2016
