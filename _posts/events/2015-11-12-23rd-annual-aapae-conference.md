@@ -1,9 +1,9 @@
 ---
 layout: event
-title: 22nd Annual AAPAE Conference
-date: 6 Oct 2014
+title: 23rd Annual AAPAE Conference
+date: 12 Nov 2015
 categories: events
-conference-dates: July 9-12 2015
+conference-dates: June 15-17, 2016
 ---
 ## 2016 AAPAE Conference
 
