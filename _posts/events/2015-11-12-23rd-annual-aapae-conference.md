@@ -5,9 +5,8 @@ date: 12 Nov 2015
 categories: events
 conference-dates: June 15-17, 2016
 ---
-## 2016 AAPAE Conference
-
 ### 15th – 17th June 2016
+
 ### Adelaide, South Australia
 
 This is an early notice that the Australian Association for Professional and Applied Ethics 23rd Annual Conference will be held on the 15th, 16th and 17th June 2016. The Conference will be hosted by the School of Management at the University of South Australia.
