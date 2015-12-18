@@ -5,5 +5,5 @@ categories: events
 conference-dates: June 15-17, 2010
 ---
 
-The [17th Annual AAPAE Conference](http://www.pharm.usyd.edu.au/aapae) will be held at the University of Sydney -- June 15-17, 2010
+The 17th Annual AAPAE Conference was hosted by the Faculty of Pharmacy at the University of Sydney (June 15-17, 2010).
 
