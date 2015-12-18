@@ -15,7 +15,7 @@ Conference Theme: *Responsible Leadership and Ethical Decision Making*
 Further details, including the announcing of keynote speakers, and the Call for Abstracts, will be announced in due course.
 We look forward to seeing you there!
 
-### 15th – 17th June 2016
+### 15 – 17 June 2016
 
 ### Adelaide, South Australia
 
