@@ -6,4 +6,4 @@ categories: events
 conference-dates: June 22-25, 2014
 ---
 
-The 2014 annual conference was held in Sydney, New South Wales, hosted by the University of Notre Dame Australia from June 22-25, 2014. The conference website is located at [http://aapae2014.com](http://aapae2014.com)
+The 2014 annual conference was held in Sydney NSW, hosted by the University of Notre Dame Australia from June 22-25, 2014.
