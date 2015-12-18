@@ -1,7 +1,7 @@
 ---
 layout: event
 title: 22nd Annual AAPAE Conference
-date: 6 Oct 2014
+date: 6 Oct 2015
 categories: events
 conference-dates: July 9-12 2015
 ---
