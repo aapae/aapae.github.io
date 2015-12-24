@@ -26,16 +26,16 @@ There is an emerging consensus that a key challenge for responsible leaders is t
 
 Papers on the general theme of **Responsible Leadership and Ethical Decision-Making** are encouraged but submissions from all relevant disciplines and perspectives are welcomed, including:
 
-•	Behavioural ethics
-•	Business ethics
-•	Bioethics
-•	Ethical constructs (e.g., moral intuition)
-•	Teaching applied ethics
-•	Ethical challenges in the 21st century
-•	Media ethics
-•	Academic Integrity
-•	Ethics, sustainability and CSR
-•	The role of emotions in ethical decision-making
++	Behavioural ethics
++	Business ethics
++	Bioethics
++	Ethical constructs (e.g., moral intuition)
++	Teaching applied ethics
++	Ethical challenges in the 21st century
++	Media ethics
++	Academic Integrity
++	Ethics, sustainability and CSR
++	The role of emotions in ethical decision-making
 
 The conference will start with a function in UniSA’s Kerry Packer Civic Gallery on 15 June 2016. Keynote speakers, presentations and panel discussions will be on 16 and 17 June. A conference dinner in one of Adelaide’s many great restaurants is scheduled for the evening of 16 June. Keynote speakers will be announced shortly.
 
