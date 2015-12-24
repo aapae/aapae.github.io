@@ -13,6 +13,7 @@ conference-dates: June 15-17, 2016
 15-17 June 2016
 
 School of Management UniSA
+
 Adelaide SA
 
 _Conference theme:_
