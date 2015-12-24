@@ -6,7 +6,8 @@ categories: events
 conference-dates: June 15-17, 2016
 ---
 ### School of Management UniSA (Adelaide, SA)
-## AAPAE 2016 Annual Conference - Call for Papers
+
+### AAPAE 2016 Annual Conference - Call for Papers
 
 [Conference Website - http://unisabusinessschool.edu.au/connect/events/aapae-2016/](http://unisabusinessschool.edu.au/connect/events/aapae-2016/)
 
