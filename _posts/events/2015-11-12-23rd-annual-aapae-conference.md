@@ -6,7 +6,8 @@ categories: events
 conference-dates: June 15-17, 2016
 ---
 ### School of Management UniSA (Adelaide, SA)
-### 15-17 June 2016
+
+### Save the date - 15-17 June 2016
 
 ### AAPAE 2016 Annual Conference - Call for Papers
 
@@ -37,7 +38,7 @@ Papers on the general theme of **Responsible Leadership and Ethical Decision-Mak
 
 The conference will start with a function in UniSA’s Kerry Packer Civic Gallery on 15 June 2016. Keynote speakers, presentations and panel discussions will be on 16 and 17 June. A conference dinner in one of Adelaide’s many great restaurants is scheduled for the evening of 16 June. Keynote speakers will be announced shortly.
 
-###### Submission Guidelines
+##### Submission Guidelines
 
 Submissions are welcome from academic faculty, doctoral students and professionals. 
 
