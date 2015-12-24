@@ -55,7 +55,8 @@ Preliminary deadline for submitting abstracts (with titles) is 20 March 2016. Au
 
 Please direct inquiries to aapae2016@unisa.edu.au.
 
-Kind regards,
+Kind regards
+
 Sunil
 
 On behalf of the AAPAE 2016 Organising Committee (Thomas Maak, Howard Harris, Chris Provis and Sunil Savur)
