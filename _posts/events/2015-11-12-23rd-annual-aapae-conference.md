@@ -11,9 +11,7 @@ conference-dates: June 15-17, 2016
 [Conference Website - http://unisabusinessschool.edu.au/connect/events/aapae-2016/](http://unisabusinessschool.edu.au/connect/events/aapae-2016/)
 
 15 – 17 June 2016
-
 School of Management, UniSA
-
 Adelaide, South Australia
 
 _Conference theme:_
@@ -58,5 +56,4 @@ Please direct inquiries to aapae2016@unisa.edu.au.
 Kind regards
 
 #### Sunil
-
 On behalf of the AAPAE 2016 Organising Committee (Thomas Maak, Howard Harris, Chris Provis and Sunil Savur)
