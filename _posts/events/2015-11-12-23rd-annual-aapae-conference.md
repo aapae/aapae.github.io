@@ -6,7 +6,7 @@ categories: events
 conference-dates: June 15-17, 2016
 ---
 ### School of Management UniSA (Adelaide, SA) 
-### 15-17 June 2016
+### 15-17 June 2016  
 
 ### AAPAE 2016 Annual Conference - Call for Papers
 
