@@ -1,7 +1,7 @@
 ---
 layout: event
 title: 23rd Annual AAPAE Conference - Call for Papers
-date: 17 Dec 2015
+date: 24 Dec 2015
 categories: events
 conference-dates: June 15-17, 2016
 ---
@@ -10,9 +10,8 @@ conference-dates: June 15-17, 2016
 
 [Conference Website - http://unisabusinessschool.edu.au/connect/events/aapae-2016/](http://unisabusinessschool.edu.au/connect/events/aapae-2016/)
 
-15 – 17 June 2016
-School of Management UniSA
-Adelaide South Australia
+
+15-17 June 2016 - School of Management UniSA - Adelaide South Australia
 
 _Conference theme:_
 
