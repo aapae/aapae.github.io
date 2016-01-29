@@ -5,6 +5,7 @@ date: 24 Dec 2015
 categories: events
 conference-dates: June 15-17, 2016
 ---
+
 ### School of Management UniSA (Adelaide, SA)  
 15-17 June 2016  
 
@@ -55,6 +56,7 @@ Please direct inquiries to aapae2016@unisa.edu.au.
 
 Kind regards
 
-#### Sunil
+_Sunil_
+
 On behalf of the AAPAE 2016 Organising Committee  
 (Thomas Maak, Howard Harris, Chris Provis and Sunil Savur)

@@ -72,7 +72,13 @@
             <h2>
               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
-            <span class="post-meta">{% if post.author %}{{ post.author }} • {% endif %}{% if post.reviewer %}{{ post.reviewer }} • {% endif %}{% if post.meta %}{{ post.meta }} • {% endif %}{{ post.date | date: "%b %-d, %Y" }}</span>
+            <span class="post-meta">
+              {% if post.author %}{{ post.author }} • {% endif %}
+              {% if post.reviewer %}{{ post.reviewer }} • {% endif %}
+              {% if post.meta %}{{ post.meta }} • {% endif %}
+              {% if post.conference-dates %}{{ post.conference-dates }}{% endif %}
+              {% unless post.conference-dates %}{{ post.date | date: "%b %-d, %Y" }}{% endunless %}
+              </span>
             <div class="excerpt">
               {{ post.excerpt }}
             </div>
