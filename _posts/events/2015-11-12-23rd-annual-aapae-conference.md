@@ -12,6 +12,8 @@ conference-dates: June 15-17, 2016
 
 [Conference Website - http://unisabusinessschool.edu.au/connect/events/aapae-2016/](http://unisabusinessschool.edu.au/connect/events/aapae-2016/)
 
+[Registration - http://unisabusinessschool.edu.au/connect/events/aapae-2016/registration/](http://unisabusinessschool.edu.au/connect/events/aapae-2016/registration/)
+
 _Conference theme:_
 
 ### _Responsible Leadership and Ethical Decision-Making_ ###
