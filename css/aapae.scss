@@ -292,19 +292,33 @@ section {
 
 .topbar {
   position: absolute;
-  top: 2rem;
-  width: 100%;  
+  top: 0;
+  width: 100%;
 
   @include media($mobile) {
     top: 0; left: 0;
     text-align: center;
   }  
+
+  p.notice {
+    margin: 0;
+    padding: 0.5rem;
+    background: $dark;
+    font-size: 0.9rem;
+    text-align: center;
+    a { 
+      color: #FFF;
+      &:hover {
+        color: lighten($lightest, 5%);
+      }
+    }
+  }
 }
 
 .site.navigation {
 
   float: left;
-  // position: relative;
+  margin-top: 1.5rem;
   margin-left: 2rem;
   text-align: left;
   z-index: 10;
@@ -361,6 +375,7 @@ section {
   $search-bar-background: lighten($search-bar-border-color, 10);
 
   float: right;
+  margin-top: 1.5rem;
   margin-right: 2rem;
 
   @include media($mobile) {
