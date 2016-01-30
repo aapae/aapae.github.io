@@ -105,7 +105,8 @@ blockquote {
 }
 
 section { 
-  @include space; 
+  @include space;
+
   .wrapper {
     @include wrapper;
     padding: 1em;
@@ -118,25 +119,30 @@ section {
 .home { 
   min-height: 100vh;
   text-align: center;
+
   .hero {
     h1, h2, h3, h4, h5, h6, p {
       @include trim;
     } 
+
     div {
       padding: $buffer 1em;
       text-align: left;
       margin: auto; 
       max-width: 640px;
+
       @include media($tablet) {
         margin-top: $buffer / 2;
         padding: $buffer / 2 1em;
       }
+      
       @include media($mobile) {
         margin-top: 0;
         text-align: center;
         padding: $buffer / 4 1em;
      }
     }
+
     h1 { 
       font-size: 2em;
       line-height: 1em;
@@ -284,16 +290,29 @@ section {
   input[type=email], input[type=text] { color: #666; font-family: sans-serif; padding: 0.75em 0.5em 0.5em 1em; line-height: 1.1em; }
 }
 
+.topbar {
+  position: absolute;
+  top: 2rem;
+  width: 100%;  
+
+  @include media($mobile) {
+    top: 0; left: 0;
+    text-align: center;
+  }  
+}
 
 .site.navigation {
-  position: absolute;
-  top: 25px;
-  left: 25px;
+
+  float: left;
+  // position: relative;
+  margin-left: 2rem;
   text-align: left;
   z-index: 10;
+
   @include media($mobile) {
+    display: block;
     width: 100%;
-    top: 0; left: 0;
+    margin: 0;
     text-align: center;
   }  
 
@@ -341,9 +360,8 @@ section {
   $search-bar-border: 1px solid $search-bar-border-color;
   $search-bar-background: lighten($search-bar-border-color, 10);
 
-  position: absolute; 
-  top: $font-size; right: $font-size;
-  display: inline-block;
+  float: right;
+  margin-right: 2rem;
 
   @include media($mobile) {
     display: none;
