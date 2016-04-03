@@ -35,6 +35,6 @@ Registration for the conference is $A320 (registering before 30 September) and $
 
 Kind regards
 
-Heather Stewart 
+Heather Stewart
 On behalf of the ABEN 2016 Conference Organising Committee (Dr. Heather Stewart, Dr. Rob Macklin, and Dr. Wes Hamilton-Jessop)
 
