@@ -34,7 +34,8 @@ Full papers may also be submitted, to be peer reviewed, if required by your fund
 
 Registration for the conference is $A320 (registering before 30 September) and $A400 (registering after 30 September) for salaried persons; and $A220 (before 30 September) and $A300 (after 30 September) for those who are non-salaried. To register click on the following link: ABEN conference registration  
 
-Kind regards 
+Kind regards
+
 Heather Stewart 
 On behalf of the ABEN 2016 Conference Organising Committee (Dr. Heather Stewart, Dr. Rob Macklin, and Dr. Wes Hamilton-Jessop)
 
