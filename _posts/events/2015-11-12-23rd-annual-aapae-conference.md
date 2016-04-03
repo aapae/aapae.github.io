@@ -16,7 +16,6 @@ conference-dates: June 15-17, 2016
 [Registration - http://unisabusinessschool.edu.au/connect/events/aapae-2016/registration/](http://unisabusinessschool.edu.au/connect/events/aapae-2016/registration/)
 
 _Conference theme:_
-
 ### _Responsible Leadership and Ethical Decision-Making_ ###
 
 AAPAE’s mission is to foster awareness of applied ethics as a significant area of concern in organisations and society. It serves as a meeting point for practitioners from various fields faced with ethical challenges in organisational life and academics with specialist expertise in the areas of professional and applied ethics. It welcomes contributions from all disciplines and areas, including business ethics, bioethics, legal ethics, medical ethics, media ethics, neuro ethics, political ethics, and sports ethics. AAPAE aims at promoting a climate in which different and differing views, concerns, and approaches can be expressed and discussed in a collaborative environment.
