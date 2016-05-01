@@ -6,7 +6,8 @@ categories: events
 conference-dates: 5-6 Dec 2016
 ---
 
-### 6th Annual Australasian Business Ethics Network (ABEN) Symposium 
+### 6th Annual Australasian Business Ethics Network (ABEN) Symposium
+
 BUSINESS ETHICS THEORY in PRACTICE 
 Griffith University, Southbank, Brisbane December 5 and 6, 2016.
 
