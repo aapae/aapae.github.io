@@ -1,0 +1,26 @@
+---
+layout: post
+title: Academic Opportunities in Management
+categories: reports
+date: 22 June 2016
+---
+## Monash Business School
+
+The Department of Management comprises the largest grouping of management researchers in Australia. Our main research strengths include corporate social responsibility, ethics, human resource management, leadership, operations and supply chain, organisational behaviour, organisational studies, public management and governance, work and employment.
+
+Our research informs our teaching and makes a significant contribution to the body of management knowledge, with beneficial impacts on individuals, organisations and society.
+
+We are now entering a period of deep investment in our future capability and are seeking Senior Lecturers/Associate Professors within the disciplines of Ethics/Corporate Social Responsibility, Human Resources Management/Employment Relations, International Business/Strategy, Operations and Supply Chain Management, and Organisational Studies/General Management.
+
+Please view positions at http://www.jobs-monash.jxt.net.au/academic-jobs/academic-opportunities-in-management-br-monash-business-school/718960
+
+If you have the relevant qualifications and research track record, a demonstrated ability to engage and educate, high-level interpersonal skills, and if you enjoy working as part of a team, we would love to hear from you.
+
+The positions are full-time; however, flexible working arrangements may be negotiated.
+
+Your application must address the selection criteria. Please refer to ["How to apply for Monash jobs"](https://secure.dc2.pageuppeople.com/apply/TransferRichTextFile.ashx?sData=Fwg6i4Eli-Btze_zaEybKoA3CclFZTGpk-vF0exgKP73A9C9HiI9R2hj6zxQ75P1kli0EYctoKA%7e)
+
+Enquiries
+Mrs Kathy Cooper, Department Manager, +61 3 9903 2673
+Closing Date
+Sunday 31 July 2016, 11:55pm AEST 
