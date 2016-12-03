@@ -4,7 +4,7 @@ role: Vice President
 affiliation: John Curtin Institute of Public Policy
 address: Curtin University, Perth WA 6102
 phone: +61 (0) 428 153 315  
-fax: +61 (0) 3 9925-5986  
+fax: +61 (0) 3 9925 5986  
 email: alandtapper@gmail.com 
 ---
 
