@@ -3,7 +3,7 @@ name: Joseph Naimo
 role: Committee Member
 affiliation: School of Philosophy & Theology  
 address: University of Notre Dame, Fremantle WA 6959
-phone: (08) 9433-0141  
+phone: +61 (0) 8 9433-0141  
 email: joe.naimo@nd.edu.au  
 ---
 
