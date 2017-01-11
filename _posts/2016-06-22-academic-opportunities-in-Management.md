@@ -4,6 +4,7 @@ title: Academic Opportunities in Management
 categories: reports
 date: 22 June 2016
 ---
+
 ## Monash Business School
 
 The Department of Management comprises the largest grouping of management researchers in Australia. Our main research strengths include corporate social responsibility, ethics, human resource management, leadership, operations and supply chain, organisational behaviour, organisational studies, public management and governance, work and employment.
