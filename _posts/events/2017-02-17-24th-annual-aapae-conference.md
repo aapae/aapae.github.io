@@ -6,7 +6,7 @@ categories: events
 conference-dates: 22nd-24th June 2017
 ---
 
-## 24th Annual AAPAE Conference - **_Applied Ethics in the Fractured State_**
+## **_Applied Ethics in the Fractured State_**
 
 #### Hosted by the Institute for Public Policy and Governance, University of Technology Sydney
 
