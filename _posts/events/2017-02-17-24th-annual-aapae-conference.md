@@ -1,8 +1,8 @@
 ---
-layout: Events
+layout: event
 title: 24th Annual AAPAE Conference
 date: 12-Feb-17
-categories: Events
+categories: events
 conference-dates: 22nd-24th June 2017
 ---
 
