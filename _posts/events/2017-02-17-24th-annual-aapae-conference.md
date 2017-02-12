@@ -10,5 +10,4 @@ conference-dates: 22nd-24th June 2017
 
 #### Hosted by the Institute for Public Policy and Governance, University of Technology Sydney
 
-[Conference website]
-(https://www.uts.edu.au/research-and-teaching/our-research/public-policy-and-governance/our-research/conferences/24th-annual)
+[Conference website] (https://www.uts.edu.au/research-and-teaching/our-research/public-policy-and-governance/our-research/conferences/24th-annual)
