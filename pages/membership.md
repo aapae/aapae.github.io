@@ -23,7 +23,7 @@ Also, you are welcome to sign up to our email list (see below) if you haven't al
 
 ## How to join?
 
-Membership of the AAPAE is open to individuals and institutions. Membership fees for 2016 are --
+Membership of the AAPAE is open to individuals and institutions. Membership fees for 2017 are --
 
 - $90 individuals
 - $200 institutions
