@@ -23,12 +23,11 @@ Also, you are welcome to sign up to our email list (see below) if you haven't al
 
 ## How to join?
 
-Membership of the AAPAE is open to individuals and institutions. Membership fees for 2016 are --
+Membership of the AAPAE is open to individuals and institutions. Membership fees for 2017 are --
 
 - $90 individuals
 - $200 institutions
 - $25 concession: students and low income
-- Details regarding access to the REIO Conference Proceedings Journal will be updated soon.
 
 To join, download and complete a [membership form](/documents/2017 AAPAE Membership.pdf) and send it along with a cheque (for the appropriate amount) made payable to "AAPAE", or EFT (account details are on the form), or with your credit card details, to the following address:
 
