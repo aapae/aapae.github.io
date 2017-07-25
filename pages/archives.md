@@ -35,6 +35,7 @@ permalink: /newsletters/
 
 ### Newsletters
 
+  - [Winter 2017](/documents/Australian Ethics-7-2017.pdf)
   - [Summer 2016](/documents/Australian Ethics-12-2016.pdf)
   - [Winter 2016](/documents/Australian Ethics-5-2016.pdf)
   - [Summer 2015](/documents/Australian Ethics-12-2015.pdf)
