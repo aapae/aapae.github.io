@@ -10,7 +10,8 @@ The AAPAE is currently fielding expressions of interest (EOI) for institutions i
 Hosting the AAPAE Conference provides an excellent opportunity to organize a conference in one’s own institution that foregrounds a special focus, and to do so with a recognized brand, ongoing pool of conference-attendees, a publicity system and helpful support from experienced past-conference attendees.
 
 Hosting a conference of any sort is a lot of work – but when it is done through the AAPAE there are many benefits and supports for the conveners and the host organization. 
-Key choices 
+
+### Key choices 
 
 The host institution and the conference convenor (in consultation with the AAPAE) make the key decisions about:
 
@@ -42,9 +43,9 @@ As part of the process, the AAPAE appoints a dedicated member of its Executive C
 
 At the request of the conference convenor, the AAPAE can offer an advance to the conference budget of up to $5000, to allow payment of initial costs. Historically, AAPAE Conferences ‘break even’ or result in a small/medium profit (around $500-$6000) that is split evenly between the AAPAE and the host institution. 
 
-Conducting a conference with a recognised brand, an on-going pool of conference-attendees, with established publicity infrastructure (a listserv with around 500 subscribers; a website; a bi-annual newsletter) and ongoing support from the AAPAE.
+  - Conducting a conference with a recognised brand, an on-going pool of conference-attendees, with established publicity infrastructure (a listserv with around 500 subscribers; a website; a bi-annual newsletter) and ongoing support from the AAPAE.
 
-With the convenor, the AAPAE organizes the reviewing and judgement tasks for the ‘Best PhD Candidate papers’ presented at the Conference, with first prize attracting AUD $500 and second prize AUD $250, fully sponsored by the AAPAE.
+  - With the convenor, the AAPAE organizes the reviewing and judgement tasks for the ‘Best PhD Candidate papers’ presented at the Conference, with first prize attracting AUD $500 and second prize AUD $250, fully sponsored by the AAPAE.
 
 
 ### Career development
