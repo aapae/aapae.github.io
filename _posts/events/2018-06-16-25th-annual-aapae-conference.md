@@ -9,5 +9,9 @@ conference-dates: 5-7 September 2018
 
 #### Hosted by the School of Global, Urban and Social Studies, RMIT University, Melbourne VIC
 
+#### Wednesday 5 to Friday 7 September 2018
+
+## **_PhD Prize and opportunity to publish in REIO_**
+
 <a href="https://www.rmit.edu.au/events/all-events/conferences/2018/september/ethics-in-a-crowded-world"
 title="Conference Website">Conference Website<a/>
