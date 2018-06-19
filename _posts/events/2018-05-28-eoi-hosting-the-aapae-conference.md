@@ -2,7 +2,7 @@
 layout: post
 title: Expressions of Interest - Hosting the AAPAE Conference
 date: 28 May 2018
-categories: news
+categories: events
 ---
 
 The AAPAE is currently fielding expressions of interest (EOI) for institutions interested in hosting its 2019 Annual Conference! 
