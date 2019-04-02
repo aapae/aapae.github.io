@@ -196,16 +196,33 @@ section {
   }
 }
 
-.membership .signup {
-  margin: 100px 0;
-  padding: 50px 0;
-  width: 100%; overflow: display;
-  text-align: center;
-  @include invert($light); 
+.membership {
+  .post-content p {
+    a {
+      padding: 2px 0.33rem;
+      background: $light;
+      border-radius: 3px;
+      color: #FFF;
+    }
+    a:hover {
+      background: lighten($light, 10%);
+    }
 
-  input { width: 80%; font-size: 1em; }
-  input[type=submit] { min-height: 2em; }
+  }
+
+  .signup {
+    margin: 100px 0;
+    padding: 50px 0;
+    width: 100%; overflow: display;
+    text-align: center;
+    @include invert($light); 
+
+    input { width: 80%; font-size: 1em; }
+    input[type=submit] { min-height: 2em; }
+  }  
 }
+
+
 
 
 .quote { 
@@ -238,6 +255,15 @@ section {
   }
 }
 .post { 
+  p {
+    line-height: 1.33;
+    a {
+      // padding: 1px 3px;
+      // background: lighten($light, 25%);
+    }   
+  }
+ 
+
   list-style: none; text-align: left; 
   li { margin-left: 1em; }
 

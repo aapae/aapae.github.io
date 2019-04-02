@@ -29,7 +29,7 @@ Membership of the AAPAE is open to individuals and institutions. Membership fees
 - $200 institutions
 - $25 concession: students and low income
 
-To join, download and complete a membership form ([pdf](/documents/2019-20-AAPAE MembershipRenewal(final).pdf) or [word](/documents/2019-20-AAPAE Membership&Renewal(final).docx)) and send it along with a cheque (for the appropriate amount) made payable to "AAPAE", or EFT (account details are on the form), or with your credit card details, to the following address:
+To join, download and complete a membership form in [pdf](/documents/2019-20-AAPAE MembershipRenewal(final).pdf) or [word](/documents/2019-20-AAPAE Membership&Renewal(final).docx) and send it along with a cheque (for the appropriate amount) made payable to "AAPAE", or EFT (account details are on the form), or with your credit card details, to the following address:
 
 > AAPAE  
 > C/o The Secretary  
