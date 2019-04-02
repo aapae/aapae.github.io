@@ -31,8 +31,8 @@ $lightgrey:			#CCCCCC;
 
 @mixin space {
   margin: auto; 
-  padding-top: 125px;
-  padding-bottom: 105px;
+  padding-top: 65px;
+  padding-bottom: 50px;
   padding-left: 1em;
   padding-right: 1em;
 
@@ -156,6 +156,7 @@ section {
 
   .signup { 
     @include invert($light);
+    padding-bottom: 3.5rem;
 
     input {
       @include input;
@@ -468,7 +469,7 @@ section {
 
 footer { 
   @include space; background: $lightgrey; color: $darkgrey; margin-bottom: 0; 
-  text-align: right; line-height: 2em; font-size: 0.8em;
+  text-align: center; line-height: 2em; font-size: 0.8em;
 
   a { color: $darkgrey; }
   a:hover { color: $dark; }

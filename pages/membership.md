@@ -37,17 +37,13 @@ To join, download and complete a membership form in [pdf](/documents/2019-20-AAP
 > Melbourne  VIC  3001    
 > Australia  
 
-Please include your postal address, your telephone numbers, your email address; and let us know whether you would like to receive the newsletter electronically rather than in hard copy by post.
-
-Then just complete the form below...
-
-
-<section class="signup">
+<!-- If you would prefer just to join our email list (Listserv) to periodically receive updates about happenings in the ethics sphere, please just complete the form below ...
+ -->
+<!-- <section class="signup">
    <div class="wrapper">
-    <!-- Begin MailChimp Signup Form -->
     <div id="mc_embed_signup">
       <form action="//aapae.us9.list-manage.com/subscribe/post?u=e4822513e8ec52ab622046519&amp;id=98da348d0e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <h3>Join the AAPAE today!</h3>
+        <h3>Subscribe to the AAPAE's Listserv today!</h3>
         <div class="response" id="mce-error-response" style="display:none"></div>
         <div class="response" id="mce-success-response" style="display:none"></div>
 
@@ -58,14 +54,13 @@ Then just complete the form below...
         <label for="mce-EMAIL">Email Address </label>            
         <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address">
 
-        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->            
+        // real people should not fill this in and expect good things - do not remove this or risk form bot signups
         <input type="text" name="b_e4822513e8ec52ab622046519_98da348d0e" tabindex="-1" value="" style="position: absolute; left: -5000px;">
         <input type="submit" value="Join!" name="subscribe" id="mc-embedded-subscribe" class="button">
       </form>
     </div>
-    <!--End mc_embed_signup-->
   </div>
-</section>   
+</section>   --> 
 
 The AAPAE would be pleased to have contact with other organisations which have an interest in professional or applied ethics.
 
