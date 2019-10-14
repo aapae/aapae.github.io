@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Expressions of Interest - Hosting the AAPAE Conference
-date: 28 May 2018
+date: 14 October 2019
 categories: events
 ---
 
-The AAPAE is currently fielding expressions of interest (EOI) for institutions interested in hosting its 2019 Annual Conference! 
+The AAPAE is currently fielding expressions of interest (EOI) for institutions interested in hosting its 2022 Annual Conference! 
 
 Hosting the AAPAE Conference provides an excellent opportunity to organize a conference in one’s own institution that foregrounds a special focus, and to do so with a recognized brand, ongoing pool of conference-attendees, a publicity system and helpful support from experienced past-conference attendees.
 
