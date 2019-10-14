@@ -10,4 +10,4 @@ conference-dates: September 7-11, 2020
  
 Wednesday 7 to Friday 11 September, 2020
 
-#### _PhD Prize and the opportunity to publish in REIO_
+#### **_PhD Prize and the opportunity to publish in REIO_**
