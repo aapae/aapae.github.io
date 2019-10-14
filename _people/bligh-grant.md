@@ -7,6 +7,6 @@ phone: +61 (0) 2 9514 4901
 email: bligh.grant@uts.edu.au
 ---
 
-Bligh is Associate Professor at the UTS Institute for Public Policy and Governance and UTS Centre for Local Government. He is Course Coordinator of the Master of Local Government program at UTS. Much of Bligh's work brings expertise in politics, political economy and applied ethics to public policy. He enjoys teaching a range of social science disciplines and working with scholars, practitioners and HDR candidates to produce academic research outputs and broader outcomes.
+Bligh is an Associate Professor at the UTS Institute for Public Policy and Governance and UTS Centre for Local Government. He is Course Coordinator of the Master of Local Government program at UTS. Much of Bligh's work brings expertise in politics, political economy and applied ethics to public policy. He enjoys teaching a range of social science disciplines and working with scholars, practitioners and HDR candidates to produce academic research outputs and broader outcomes.
 
 Bligh has held positions as Lecturer in Business Ethics and Lecturer in Local Government at the UNE Business School, University of New England and Associate Lecturer in Political Economy at the University of Southern Queensland. He has taught Philosophy, Politics, Sociology, Asian Studies, Political Economy and Business Management at UNE. He contributes regularly to media on Australian politics, particularly on local government matters.
