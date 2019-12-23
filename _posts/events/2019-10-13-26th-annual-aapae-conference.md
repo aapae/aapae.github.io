@@ -1,6 +1,6 @@
 ---
 layout: event
-title: 26th Annual AAPAE Conference
+title: 27th Annual AAPAE Conference
 date: 13-Oct19
 categories: events
 conference-dates: September 7-11, 2020
