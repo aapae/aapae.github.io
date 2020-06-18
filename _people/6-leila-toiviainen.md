@@ -3,7 +3,7 @@ name: Leila Toiviainen
 role: Committee Member
 affiliation: School of Humanities
 address: University of Tasmania
-phone: +61 (0)
+phone: +61 (0) 419 235 805
 email: leila.toiviainen@utas.edu.au
 ---
 
