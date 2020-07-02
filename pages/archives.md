@@ -35,6 +35,7 @@ permalink: /newsletters/
 
 ### Newsletters
 
+  - [Summer 2019](/documents/Australian Ethics Summer 2019.pdf)
   - [Winter 2019](/documents/Australian Ethics Winter 2019.pdf)
   - [Summer 2018](/documents/Australian Ethics Summer 2018.pdf)  
   - [Winter 2018](/documents/Australian Ethics Winter 2018.pdf)
@@ -57,6 +58,7 @@ permalink: /newsletters/
   - [Summer 2009](/documents/Newsletter-12-2009.pdf)
   - [Winter 2009](/documents/Newsletter-April_2009.pdf)
   - [Summer 1995](/documents/newsletter_nov1995.pdf)
+
 
 
 ### Articles & Reviews
