@@ -35,6 +35,7 @@ permalink: /newsletters/
 
 ### Newsletters
 
+  - [Winter 2020](/documents/Australian Ethics Winter 2020.pdf)
   - [Summer 2019](/documents/Australian Ethics Summer 2019.pdf)
   - [Winter 2019](/documents/Australian Ethics Winter 2019.pdf)
   - [Summer 2018](/documents/Australian Ethics Summer 2018.pdf)  
