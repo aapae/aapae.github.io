@@ -1,6 +1,8 @@
 ---
 ---
 
+// temporary banner colour is at the end of this file
+
 @charset "utf-8";
 @import "bourbon/bourbon";
 @import "neat/neat";
@@ -486,4 +488,14 @@ footer {
       color: #000;
       background: #fff;
    }
+}
+
+// temporary banner colour edits
+html { border: none };
+.topbar .notice { 
+  background: hsla(0, 68%, 45%, 1); 
+  color: #fff; 
+
+  a { color: #fff; }
+  a:hover { color: hsla(0, 68%, 45%, 0.1); }
 }
