@@ -494,8 +494,8 @@ footer {
 html { border: none; }
 .topbar p.notice { 
   background: hsla(0, 68%, 45%, 1) !important; 
-  color: #fff; 
+  color: #fff !important; 
 
-  a { color: #fff; }
-  a:hover { color: hsla(0, 68%, 45%, 0.1); }
+  a { color: #fff !important; }
+  a:hover { color: hsla(0, 68%, 45%, 0.1) !important; }
 }
