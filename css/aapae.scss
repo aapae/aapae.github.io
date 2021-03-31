@@ -493,7 +493,7 @@ footer {
 // temporary banner colour edits
 html { border: none; }
 .topbar p.notice { 
-  background: hsla(0, 68%, 45%, 1); 
+  background: hsla(0, 68%, 45%, 1) !important; 
   color: #fff; 
 
   a { color: #fff; }
