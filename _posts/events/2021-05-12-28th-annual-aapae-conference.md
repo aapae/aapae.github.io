@@ -5,7 +5,7 @@ categories: events
 conference-dates: 11 - 13 August 2021
 ---
 
-28th Annual Virtual Conference – 11th to 13th August 2021. Hosted by the Law Futures Centre at Griffith University, Queensland
+28th Annual Virtual Conference – 11th to 13th August 2021. Hosted by the [Law Futures Centre](https://www.griffith.edu.au/law-futures-centre) at Griffith University, Queensland
 The theme will be ‘Social Licence and Ethical Practice’.
 
 The AAPAE Conference Committee warmly invites submissions for the 28th Annual AAPAE Conference from individuals (and teams) from all disciplines and professions who are interested in advancing the understanding, teaching, and practice of professional and applied ethics. 
