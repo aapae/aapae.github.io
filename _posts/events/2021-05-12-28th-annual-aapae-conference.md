@@ -41,7 +41,9 @@ Fees:
     Students       $20
     AAPAE Members  Free
 
-The deadline for submission of abstracts is 28th July 2021 and participants will be notified by July 31 on whether their applications have been successful. Abstract submissions should be no more than 250 words. Please send to Dr Hugh Breakey at [h.breakey@griffith.edu.au](mailto:h.breakey@griffith.edu.au) 
+Registration is now open and the registration form can be [downloaded here](/documents/2021-AAPAE-Conference-Registration.docx). Please email your completed form to Dr Hugh Breakey at [h.breakey@griffith.edu.au](mailto:h.breakey@griffith.edu.au) to express your interest to attend and obtain the conference link and password.   
+
+The deadline for submission of abstracts is 28th July 2021 and participants will be notified by July 31 on whether their applications have been successful. Abstract submissions should be no more than 250 words.
 
 Invitations and instructions for the Zoom format will be emailed to participants.  
 
