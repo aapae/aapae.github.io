@@ -1,8 +1,7 @@
 ---
 name: Dr Alan Tapper  
 role: Vice President
-affiliation: John Curtin Institute of Public Policy
-address: Curtin University, Perth WA 6102
+affiliation: John Curtin Institute of Public Policy, Curtin University WA
 phone: +61 (0) 428 153 315  
 email: alandtapper@gmail.com 
 ---
