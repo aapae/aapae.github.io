@@ -1,9 +1,7 @@
 ---
-name: Michael Schwartz  
+name: Dr Michael Schwartz  
 role: Committee Member
 affiliation: Royal Melbourne Institute of Technology
-address: GPO Box 2476, Melbourne VIC 3001  
-phone:    
 email: michaelschwartz631@gmail.com
 ---
 
