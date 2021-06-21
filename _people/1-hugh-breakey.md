@@ -1,5 +1,5 @@
 ---
-name: Hugh Breakey
+name: Dr Hugh Breakey
 role: President
 affiliation: Institute for Ethics, Governance and Law
 address: Griffith University, Nathan Campus, Brisbane QLD 4122  
