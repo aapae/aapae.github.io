@@ -1,5 +1,5 @@
 ---
-name: Jacqueline  
+name: Dr Jacqueline Boaks  
 role: Committee member
 affiliation: Curtin University, WA  
 phone:   
