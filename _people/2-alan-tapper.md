@@ -1,5 +1,5 @@
 ---
-name: Alan Tapper  
+name: Dr Alan Tapper  
 role: Vice President
 affiliation: John Curtin Institute of Public Policy
 address: Curtin University, Perth WA 6102
@@ -7,4 +7,4 @@ phone: +61 (0) 428 153 315
 email: alandtapper@gmail.com 
 ---
 
-Alan is an Adjunct Research Fellow at the John Curtin Institute of Public Policy at Curtin University in Perth. He has taught philosophy and ethics for over 20 years in Perth universities. With Stephan Millett he is the author of three secondary school textbooks, entitled Philosophy and Ethics. His other academic interests are in the Enlightenment in Britain, philosophy in schools, and Australian family policy matters.
+Alan taught philosophy in Perth for about 20 years, mainly at Edith Cowan University, and has worked as a public policy researcher at the John Curtin Institute of Public Policy, Curtin University, for about 10 years. His interests include social policy, philosophy in schools, moral philosophy, professional ethics, and 18th century intellectual history. His recent work has been on the Golden Rule and on social practices.
