@@ -1,5 +1,5 @@
 ---
-name: Leila Toiviainen
+name: Dr Leila Toiviainen
 role: Committee Member
 affiliation: School of Humanities
 address: University of Tasmania
