@@ -1,7 +1,7 @@
 ---
 name: Dr Joseph Naimo  
 role: Committee Member
-affiliation: Researcher in Philosophy and Professional Ethics Activist and Advocate for Disability and Mental Health  
+affiliation: Researcher in Philosophy and Professional Ethics, Activist and Advocate for Disability and Mental Health  
 phone: +61 (0) 413 575 270  
 email: jnaimo@optusnet.com.au  
 ---
