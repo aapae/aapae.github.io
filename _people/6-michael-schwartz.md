@@ -1,5 +1,5 @@
 ---
-name: Dr Michael Schwartz  
+name: A/Prof Michael Schwartz  
 role: Committee Member
 affiliation: Royal Melbourne Institute of Technology
 email: michaelschwartz631@gmail.com
