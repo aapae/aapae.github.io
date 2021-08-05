@@ -7,6 +7,9 @@ conference-dates: 11 - 13 August 2021
 
 28th Annual AAPAE Conference hosted by the [Law Futures Centre](https://www.griffith.edu.au/law-futures-centre) at Griffith University, Australia.
 
+[**Conference Program**](/documents/2021 AAPAE Conference Program.pdf)  
+[**Conference Abstracts**](/documents/Paper Abstracts AAPAE Conference 2021.pdf)
+
 ## ‘Social licence and ethical practice’
 
 Wednesday 11 – Friday 13 August  
