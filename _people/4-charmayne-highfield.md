@@ -1,5 +1,5 @@
 ---
-name: Charmayne Highfield  
+name: Dr Charmayne Highfield  
 role: Treasurer and Newsletter Editor
 affiliation: Enya-Lea Pte. Ltd.  
 phone: +65 9146 9520  

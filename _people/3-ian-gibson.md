@@ -1,5 +1,5 @@
 ---
-name: Ian Gibson
+name: Dr Ian Gibson
 role: Secretary
 affiliation: Victorian Government
 address: General Counsel, Victorian Government Solicitor's Office, GPO Box 1692, Melbourne VIC 3001  
