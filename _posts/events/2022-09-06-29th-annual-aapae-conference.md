@@ -1,6 +1,6 @@
 ---
 layout: event
-title: 28th Annual AAPAE Conference
+title: 29th Annual AAPAE Conference
 categories: events
 conference-dates: 6 - 9 September 2022
 ---
@@ -11,6 +11,6 @@ The AAPAE Conference Committee warmly invites submissions for the 29th Annual AA
 
 Please email the completed form to Dr Jacqui Boaks at jacqueline.boaks@curtin.edu.au to express your interest to attend and obtain the conference link and password.
 
-[**Registration Form**](/documents/2022 AAPAE Conference Registration.docx)
+[**Download the Registration Form**](/documents/2022 AAPAE Conference Registration.docx)
 
 For further information, please email [info@aapae.org.au ](mailto:info@aapae.org.au)
