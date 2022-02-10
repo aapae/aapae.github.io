@@ -5,6 +5,7 @@ date: December 2014
 author: Dr James Page
 categories: australian-ethics
 ---
+
 A major ethical challenge for our times.  There can be little doubt that surveillance is a major ethical challenge for our times, especially with the onset of the internet.  Much of the current concern focuses on the potential of governments to peruse the contents of emails from individuals, most often under the guise of protecting national security.  Email communication is certainly convenient for individuals, and has now all but replaced traditional postal communication, but the ease by which it is possible to intercept emails raises important questions of privacy and democratic rights.
 
 Arguably, the most powerful critique of the surveillance society comes from George Orwell's famous dystopian novel Nineteen Eighty-Four (Secker & Warburg, 1949).  Within the Orwellian society, every move, and indeed every thought of the hero, Winston Smith, is monitored by the all-seeing government, namely, Big Brother.  The pervasive power of the surveillance society is summed up by the phrase "Big Brother is watching". The thrust of Orwell's critique, however, is against the power of governments, and particularly totalitarian ones. 
