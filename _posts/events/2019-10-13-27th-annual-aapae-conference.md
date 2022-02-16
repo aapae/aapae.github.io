@@ -1,7 +1,6 @@
 ---
 layout: event
 title: 27th Annual AAPAE Conference
-date: 13-Oct19
 categories: events
 conference-dates: postponed from September 2020
 ---
