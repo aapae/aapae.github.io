@@ -35,6 +35,7 @@ permalink: /newsletters/
 
 ### Newsletters
 
+  - [Winter 2022](/documents/Australian Ethics Winter 2022.pdf)
   - [Summer 2021](/documents/Australian Ethics Summer 2021.pdf)
   - [Winter 2021](/documents/Australian Ethics Winter 2021.pdf)
   - [Summer 2020](/documents/Australian Ethics Summer 2020.pdf)
