@@ -1,8 +1,8 @@
 ---
 name: Dr Jacqueline Boaks  
-role: Committee member
+role: Vice President
 affiliation: Ethics and Sustainability sub-discipline, School of Management and Marketing, Curtin University, WA  
-phone:   
+phone: +61 8 9266 2629
 email: jacqueline.boaks@curtin.edu.au
 --- 
 
