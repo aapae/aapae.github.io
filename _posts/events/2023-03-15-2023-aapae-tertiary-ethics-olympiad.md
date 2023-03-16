@@ -5,8 +5,6 @@ categories: events
 conference-dates: 5 October 2023
 ---
 
-## 2023 AAPAE Tertiary Ethics Olympiad
-
 The AAPAE Ethics Olympiad will be held via Zoom on the 5th of October 2023.  Graduate and Undergraduate University students are invited to enter teams to represent their tertiary institution. Any tertiary institution can participate, but there is a maximum of two teams from each institution allowed to enter. During the day, all will be involved in a series of three heats where they will be scored according to set criteria that rewards, clear, concise, respectful discourse around interesting ethical cases. Gold, Silver and Bronze medals will be awarded to the top three teams. For more information, [see here](https://ethicsolympiad.org/?page_id=1458)!
 
 ### About the Ethics Olympiad
