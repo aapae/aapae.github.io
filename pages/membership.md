@@ -27,7 +27,7 @@ Membership of the AAPAE is open to individuals and institutions. Membership fees
 
 - $90 individuals
 - $200 institutions
-- $25 concession: students and low income
+- $30 concession: students and low income
 
 To join, download and complete a membership form in [pdf](/documents/2021-2022-AAPAE-Membership-Renewal.pdf) or [word](/documents/2021-2022-AAPAE-Membership-Renewal.docx) email it back to [info@aapae.org.au](mailto:info@aapae.org.au).  Payment can be made via EFT, Visa card, Mastercard or cheque.  For cheque payments, please send to:
 
