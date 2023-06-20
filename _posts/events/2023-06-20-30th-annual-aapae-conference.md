@@ -1,16 +1,16 @@
 ---
 layout: event
-title: 20th Annual AAPAE Conference 2023
+title: 30th Annual AAPAE Conference 2023
 categories: events
 conference-dates: 2-6 July 2023
 ---
 
 The Australian Association for Professional and Applied Ethics is pleased to run an applied ethics stream at the annual Australian Association for Philosophy conference from 2-6 July 2023.
 
-> Applied Ethics Stream at the AAP 2023 Conference
-> Dates: 2 - 6 July 2023
-> Location: ACU - Melbourne Campus (St Patrick’s)
-> The Mary Glowrey Building, 115 Victoria Parade, Fitzroy Vic 3065
+> Applied Ethics Stream at the AAP 2023 Conference<br>
+> Dates: 2 - 6 July 2023<br>
+> Location: ACU - Melbourne Campus (St Patrick’s)<br>
+> The Mary Glowrey Building, 115 Victoria Parade, Fitzroy Vic 3065<br>
 
 The theme is: Power, Inequality, and Accountability
 
