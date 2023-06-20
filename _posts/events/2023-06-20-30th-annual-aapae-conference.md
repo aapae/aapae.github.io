@@ -18,11 +18,11 @@ For good or ill, power suffuses almost every facet of the contemporary world: in
 
 This applied ethics stream will explore the ethical challenges and philosophical questions arising from these topics, including:
 
-	* How can power be held accountable—on scales both small and large?
-	* How does power morally inter-relate with inequality?
-	* What types of inequalities are morally invidious, and what types are acceptable?
-	* What types of power relationships are legitimate and even morally necessary?
-	* What is the relationship between political concepts of equality and authority, and interpersonal moral obligations?
+* How can power be held accountable—on scales both small and large?
+* How does power morally inter-relate with inequality?
+* What types of inequalities are morally invidious, and what types are acceptable?
+* What types of power relationships are legitimate and even morally necessary?
+* What is the relationship between political concepts of equality and authority, and interpersonal moral obligations?
 
 The Stream welcomes all applied ethics papers looking to explore these and similar themes. To help offset the AAP Conference fees, existing AAPAE Members presenting or attending the Stream will be granted free 2024 AAPAE membership.
 
