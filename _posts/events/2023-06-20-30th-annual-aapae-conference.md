@@ -1,6 +1,6 @@
 ---
 layout: event
-title: 2023 AAPAE Annual Conference
+title: 20th Annual AAPAE Conference 2023
 categories: events
 conference-dates: 2-6 July 2023
 ---
