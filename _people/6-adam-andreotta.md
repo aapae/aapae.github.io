@@ -1,6 +1,6 @@
 ---
 name: Dr Adam Andreotta
-role: Committee Member
+role: Secretary
 affiliation: School of Management and Marketing, Faculty of Business and Law, Curtin University, WA
 phone: +61 (0) 412 431 210
 email: Adam.Andreotta@curtin.edu.au
