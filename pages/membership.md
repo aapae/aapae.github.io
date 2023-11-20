@@ -29,13 +29,7 @@ Membership of the AAPAE is open to individuals and institutions. Membership fees
 - $200 institutions
 - $30 concession: students and low income
 
-To join, download and complete a membership form in [pdf](/documents/2023-2024-AAPAE-Membership-Renewal.pdf) or [word](/documents/2023-2024-AAPAE-Membership-Renewal.docx) email it back to [info@aapae.org.au](mailto:info@aapae.org.au).  Payment can be made via EFT, Visa card, Mastercard or cheque.  For cheque payments, please send to:
-
-> AAPAE  
-> C/- Ian Gibson 
-> GPO Box 1692  
-> Melbourne  VIC  3001    
-> Australia  
+To join, download and complete a membership form in [pdf](/documents/2023-AAPAE-Membership-Renewal-updated.pdf) or [word](/documents/2023-AAPAE-Membership-Renewal-updated.docx) email it back to [info@aapae.org.au](mailto:info@aapae.org.au). Payment can be made via EFT, Visa card or Mastercard.
 
 <!-- If you would prefer just to join our email list (Listserv) to periodically receive updates about happenings in the ethics sphere, please just complete the form below ...
  -->
