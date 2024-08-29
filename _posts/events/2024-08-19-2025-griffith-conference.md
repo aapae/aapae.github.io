@@ -5,6 +5,8 @@ categories: events
 conference-dates: 1-3 May 2025
 ---
 
+<img src="/media/ethical-futures-aape.png" alt="Ethical Futures for People and Planet 2025" />
+
 The AAPAE and the Australian Earth Laws Alliance (AELA) are co-hosting an exciting national conference in May 2025 in Brisbane, exploring how we can build ethical futures in a rapidly changing world. In a time of rapid and uncertain social, economic and environmental change and disruption, we must build creative visions for our future, applying principled and ethical decision-making and action.
 
 > Conference theme: Ethical Futures for People and Planet
