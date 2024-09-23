@@ -5,13 +5,13 @@ categories: events
 conference-dates: 5 December 2024
 ---
 
-The 2024 AAPAE Symposium will be held via Zoom on the 5th of December 2024!
+The AAPAE invites abstracts of 500 - 1,000 words on these and related topics, to be submitted by 7th November 2024 together with a short biography of the presenter/s (up to 100 words).
 
 In a 2024 report on Generative AI and the future of work, the International Monetary Fund reported that:
 
 > Almost 40 percent of global employment is exposed to AI, with advanced economies at greater risk but also better poised to exploit AI benefits than emerging market and developing economies. In advanced economies, about 60 percent of jobs are exposed to AI, due to prevalence of cognitive-task-oriented jobs.” Gen-AI: Artificial Intelligence and the Future of Work. (n.d.). IMF.
 >
-> -- https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379?cid=bl-com-SDNEA2024001
+> -- [IMF](https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379?cid=bl-com-SDNEA2024001)
 
 ![Artificial Intelligence and the Professions](/media/ai-and-the-professions.png)
 
