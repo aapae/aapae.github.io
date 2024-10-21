@@ -3,7 +3,7 @@ name: Mr Dayo Sowunmi
 role: Committee Member
 affiliation: The Anode Group
 email: dayo@anode.com.au 
-blog: http://www.anode.com.au
+web: https://anode.com.au
 ---
 
 Dayo is a leadership consultant, director and mentor, who has worked in Australia, the UK and Africa across a range of industries including financial services, fintech, utilities and the public sector. 
