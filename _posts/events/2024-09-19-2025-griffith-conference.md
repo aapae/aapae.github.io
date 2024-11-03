@@ -38,4 +38,4 @@ Proposals are invited to address one or more of the following conference themes:
 
 The 2025 conference will focus on these and related questions.
 
-For more information, visit our website: www.earthlaws.org.au or email us anytime: aela@earthlaws.org.au
+For more information, visit our website: [www.earthlaws.org.au](www.earthlaws.org.au) or email us anytime: [aela@earthlaws.org.au](mailto:aela@earthlaws.org.au)
