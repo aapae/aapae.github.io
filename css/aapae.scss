@@ -337,6 +337,7 @@ section {
     background: $dark;
     font-size: 0.85rem;
     text-align: center;
+
     a { 
       color: #FFF;
       &:hover {
@@ -493,11 +494,21 @@ footer {
 }
   
 // temporary banner colour edits
-html { border: none; }
-.topbar p.notice { 
-  background: #5525e5 !important; 
-  color: #fff !important; 
 
-  a { color: #fff !important; }
-  a:hover { color: hsla(0, 68%, 95%, 1) !important; }
+.topbar p.notice { 
+  padding: 0;
+  background: rgb(249,247,247) !important;
+
+  a {
+    color: darken($dark, 10) !important;
+    padding: 0.5rem;
+    display: block;
+  }
+
+  img {
+    height: 75px;
+    width: 100%;
+    object-position: bottom;
+    object-fit: cover;
+  }
 }
