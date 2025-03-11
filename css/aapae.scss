@@ -144,6 +144,7 @@ section {
         margin-top: 0;
         text-align: center;
         padding: $buffer / 4 1em;
+
      }
     }
 
@@ -354,11 +355,18 @@ section {
   text-align: left;
   z-index: 10;
 
+  svg.menu { display: none; }
+
   @include media($mobile) {
     display: block;
     width: 100%;
     margin: 0;
     text-align: center;
+
+    svg.menu {
+      display: inline-block;
+      margin-right: 0.5rem;
+    }
   }  
 
   .trigger {
