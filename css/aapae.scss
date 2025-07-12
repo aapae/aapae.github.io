@@ -371,6 +371,7 @@ section {
 
   .trigger {
     color: $dark;
+
     @include media($mobile) {
       background: $dark;
       color: white;
