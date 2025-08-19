@@ -35,6 +35,8 @@ permalink: /newsletters/
 
 ### Newsletters
 
+  - [Winter 2025](/documents/Australian Ethics Winter 2025.pdf)
+  - [Summer 2024](/documents/Australian Ethics Summer 2024.pdf)
   - [Winter 2024](/documents/Australian Ethics Winter 2024.pdf)
   - [Summer 2023](/documents/Australian Ethics Summer 2023.pdf)
   - [Winter 2023](/documents/Australian Ethics Winter 2023.pdf)
@@ -46,7 +48,7 @@ permalink: /newsletters/
   - [Winter 2020](/documents/Australian Ethics Winter 2020.pdf)
   - [Summer 2019](/documents/Australian Ethics Summer 2019.pdf)
   - [Winter 2019](/documents/Australian Ethics Winter 2019.pdf)
-  - [Summer 2018](/documents/Australian Ethics Summer 2018.pdf)  
+  - [Summer 2018](/documents/Australian Ethics Summer 2018.pdf)
   - [Winter 2018](/documents/Australian Ethics Winter 2018.pdf)
   - [Summer 2017](/documents/Australian Ethics-12-2017.pdf)
   - [Winter 2017](/documents/Australian Ethics-7-2017.pdf)
@@ -80,7 +82,7 @@ permalink: /newsletters/
   - [Corruption and Anti-Corruption](/documents/review2005_alexandra.pdf)
 
 <!--
-### Miscellaneous 
+### Miscellaneous
 
 
   - [Presidential_Address-2009](/documents/Presidential_Address-2009.pdf)
