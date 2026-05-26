@@ -119,18 +119,15 @@ section {
   }
 
   .bullets {
-    max-width: 900px;
+    max-width: 1200px;
     margin: auto;
-    overflow: auto;
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    @media (min-width: 590px)  { grid-template-columns: repeat(2, minmax(285px, 300px)); justify-content: center; }
+    @media (min-width: 1180px) { grid-template-columns: repeat(4, 1fr); justify-content: stretch; }
     gap: 1rem;
     a { text-decoration: none; }
-    .bullet {
-      @media (min-width: 901px) {
-        flex: 0 0 calc(33.33% - 0.7rem);
-      }
-    }
     .bullet-content {
       margin-bottom: 2em;
     }
