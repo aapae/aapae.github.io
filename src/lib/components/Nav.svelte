@@ -45,4 +45,13 @@
       <li class="search-nav"><a href="/search">Search</a></li>
     </ul>
   </nav>
+
+  <form class="search-bar" action="/search" method="get">
+    <div class="search-and-submit">
+      <input type="search" placeholder="Enter Search" name="q" id="q" />
+      <button type="submit">
+        <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/search-icon.png" alt="Search" />
+      </button>
+    </div>
+  </form>
 </div>
