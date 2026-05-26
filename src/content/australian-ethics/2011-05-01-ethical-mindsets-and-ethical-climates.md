@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Ethical mindsets and ethical climates: research work in progress"
+date:   1 May 2011
+author: Theodora Issa and David Pick
+categories: australian-ethics
+---
+
+Seeking a solution to the recent deterioration in ethical standards that are witnessed in organizations around the world, Alzola (2011) urged the establishment of a reconciliation of normative and descriptive approaches to investigate and research the relationship between business and ethics. Our research in ethical mindsets, which extended recently into ethical climates, comes in response to such calls and other diverse calls by several scholars from different disciplines such as Lane & Klenke (2004), Ashar and Lane-Maher (2004), and Ghoshal (2005).
+
+This increased chorus of calls, specially with the market meltdown and its global ramifications, have been appealing for a re-examination of ethics guiding individuals. These individuals continue to struggle with emerging issues such as: uncertainty, risk, ambiguity and suffering and, in severe cases, these individuals might feel alienated in this society (as argued by Arisian, 1993). Such developments in this postideological period and post-modern society seem to threaten the very fabric of the society, by allowing individuals to stand alone, and to introduce change to or even reject the values that have hitherto defined the character of Western society.
+
+This trend, if left unchecked, might lead to grievous consequences for the society as a whole. Our research has been designed with special attention to Ghoshal (2005), who argues for a recasting of management theory away from the currently dominant ‘scientific model‘ that has tended to reduce the role of ethical and moral dimensions in theories and therefore in ideas about management practice. This is similar to Weick‘s (1999) recommendation that we abandon the heavy tool of paradigms and monologues and focus instead on achieving a deeper awareness of organizations by theorizing through intuition, feeling, stories, experience, awe, vocabulary and empathy, and most importantly the ability to listen attentively to create theories that have practical as well academic value. With this in mind, the aim of our research is to examine the mindsets of individuals, expanding into ethical climates. It is argued that research in ethics, and specifically business ethics, is gaining momentum. Our interest in researching mindsets comes despite the call by Alzola (2008) that questions whether ethicists need to abandon the very enterprise of building a characterbased moral theory in business ethics and organizational behaviour.
+
+This research on ethical mindsets and ethical climates draws mainly on two separate but allied business ethics literatures relating to spirituality and aesthetics, two issues that were and continue to be probed using the theoretical lens of mindsets. In order to achieve the aims and objectives of this research, an interpretive mixed-methods approach was considered the most appropriate. This research contributes to the contemporary debate on business ethics, moving behind the progressively more modernized investigative languages that prevail and beyond the traditional. Indeed, this research goes past and well beyond the obvious. With the exception of the work being undertaken by the authors (e.g. Issa and Pick, 2010), there is relatively little research that integrates spirituality, aesthetics and ethical mindsets. Spirituality draws attention to individuals‘ conscientiousness in inventing ethical workplaces, whilst aesthetics focuses the conversation and discernment on ethical behaviour in business. Mindsets provide a key perspective that combines spirituality and aesthetics into a single analytical framework, thus allowing the investigation of both the individual and the organization (i.e. the ethical mindset and the ethical climate). Ethical Mindset has been defined as ‘an appreciation of and reflection on any situation through the filter of personal beliefs and values such as honesty, integrity, harmony, balance, optimism, pursuit of joy, peace and beauty, truth seeking, making a difference, and being professional, deriving from the strength rooted in individual‘s inner-self‘ (Issa, 2009, p. 163).
+
+The project puts into practice a research tool generated from Issa‘s (2009) PhD thesis that identified eight components of ethical mindsets (i.e. aesthetic spirituality, religious spirituality, optimism, harmony and balance, personal truth, contentment, making a difference and interconnectedness). The results to date are limited to Australia and indicate that people might be ‘spiritual‘ but this is not necessarily religious; instead, evidence is gathering to suggest that it might be derived from aesthetics. The research to date clearly demonstrates the context dependency of mindsets. Furthermore, a number of issues and questions were raised that are worthy of further examination, particularly in relation to the influence and importance of ethical mindsets and to varying and sometimes conflicting understandings and definitions of the term ‘spirituality‘. Whilst there is a place of religious belief in workplaces, with the emergence of ‘religious spirituality‘ as one of the components of ethical mindsets, nevertheless, to make it the sole focus would be a mistake given the evidence from this research of a strong and vibrant secular spirituality. However, this religious spirituality should not be diverted from its religious meaning and connotations; whereas if individuals are keen to think of spirituality components with secular mindsets, this should be referred to as aesthetic spirituality. This will reduce the confusion, and emphasize the necessity to consider this important concept and its positive influence on individuals and in turn their organizations, society and community.
+
+As for ethical climates, our research results so far suggest that public servants rate highly such values as integrity, honesty, support and compassion that act as a positive force for making the workplace more tolerable, flexible, and most importantly, in support of an ethical climate that is accountable. However, some respondents expressed concerns that management do not necessarily maintain or display such values. This is reflected in the doubt cast by respondents that an individual with a self-serving (selfish) ethical mindset can be changed for the better. This suggests, just as with ethical mindsets, that there are a number of different possible ethical climates. Furthermore, the analysis suggests that respondents display a high level of respect for belief systems different to their own. While there are those who stated that they do not ‘wear their beliefs on their sleeves‘, those belief systems come out in the way they treat others and the way they view the world. To improve the ethical climate of public service organizations, the data suggests that it is important to combat feelings amongst staff that favouritism is being practiced. Interestingly, respondents concede that this too is in the hands of management, saying that they say ‘set the ethical scene‘.
+
+The next phase is to focus on achieving a wider understanding of ethical mindsets and ethical climates by undertaking international comparative research beginning with Australia, South Africa, India, and Canada.
+
+Dr Theodora Issa and Associate Professor David Pick,
+
+Curtin Business School, Curtin University, WA.
+
+####References####
+
+ALZOLA, M. 2008. Character and Environment: The Status of Virtues in Organizations. Journal of Business Ethics, 78, 343-357.
+
+ARISIAN, K. 1993. Will Humanism Survive the Postmodern era? A preface [Online]. [Online]. Available: humanismtoday.org. Available: http://www.humanismtoday.org/vol8/ [2005, July 29th] [Accessed].
+
+ASHAR, H. & LANEMAHER, M. 2004. Success and Spirituality in the New Business Paradigm. Journal of Management Inquiry, 13, 249-260.
+
+GHOSHAL, S. 2005. Bad Management Theories Are Destroying Good Management Practices. Academy of Management Learning and Education, 4, 75-91.
+
+ISSA, T. 2009. Ethical mindsets, aesthetics and spirituality: A mixed-methods approach analysis of the Australian services sector. Doctoral research thesis, Curtin University of Technology.
+
+ISSA, T. & PICK, D. 2010. Ethical Mindsets: An Australian Study. Journal of Business Ethics, 96, 613-629.
+
+LANE, M. S. & KLENKE, K. 2004. The Ambiguity Tolerance Interface: A Modified Social Cognitive Model for Leading under uncertainty. Journal of Leadership & Organizational Studies, 10, 69-81.
+
+WEICK, K. E. 1999. Theory Construction as disciplined reflexivity: Tradeoffs in the 90s. The Academy of Management Review, 24, 797-806.

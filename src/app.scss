@@ -1,0 +1,386 @@
+// Variables
+$darkest:     #221E3F;
+$dark:        #6A739E;
+$light:       #9395C5;
+$lightest:    #95A3E4;
+$darkgrey:    #424242;
+$lightgrey:   #CCCCCC;
+$font-size:   20px;
+$buffer:      200px;
+$width:       700px;
+
+// Reset
+* { margin: 0; padding: 0; }
+
+html {
+  height: 100%;
+  font-size: $font-size;
+  font-family: 'Merriweather', serif;
+  font-weight: 300;
+  border-top: 5px solid $dark;
+  color: $darkgrey;
+  background: $lightgrey;
+}
+
+header, section { background: white; }
+
+h1, h2, h3, h4, h5, p, ul, li, pre {
+  margin: 0; padding: 0;
+  margin-bottom: $font-size;
+  line-height: 1.3em;
+  font-weight: 300;
+}
+
+h1 { font-size: 2em; margin-top: $font-size * 1.5; }
+h2 { font-size: 1.5em; margin-top: $font-size * 1.5; }
+h3, h4 { font-weight: 400; }
+
+a { text-decoration: none; color: darken($dark, 10); }
+a:hover { text-decoration: none; color: $light; }
+
+pre { line-height: 1em; }
+
+blockquote {
+  border-left: 10px solid $lightgrey;
+  padding-left: 1.5em;
+}
+
+// Shared section spacing mixin
+@mixin space {
+  margin: auto;
+  padding-top: 65px;
+  padding-bottom: 50px;
+  padding-left: 1em;
+  padding-right: 1em;
+  @media (max-width: 500px) {
+    padding-top: 25px;
+    padding-bottom: 5px;
+    min-height: 380px;
+  }
+  @media (min-width: 501px) and (max-width: 900px) {
+    padding: 75px 1em;
+  }
+}
+
+section {
+  @include space;
+  .wrapper {
+    max-width: $width;
+    margin: auto;
+    padding: 1em;
+    overflow: hidden;
+  }
+  img { max-width: 100%; }
+}
+
+// Home page
+.home {
+  min-height: 100vh;
+  text-align: center;
+
+  .hero {
+    h1, h2, h3, h4, h5, h6, p { margin: 0; padding: 0; }
+    div {
+      padding: $buffer 1em;
+      text-align: left;
+      margin: auto;
+      max-width: 640px;
+      @media (min-width: 501px) and (max-width: 900px) {
+        margin-top: $buffer / 2;
+        padding: $buffer / 2 1em;
+      }
+      @media (max-width: 500px) {
+        margin-top: 0;
+        text-align: center;
+        padding: $buffer / 4 1em;
+      }
+    }
+    h1 { font-size: 2em; line-height: 1em; }
+    span { color: $dark; }
+  }
+
+  .about {
+    background: $dark;
+    color: white;
+  }
+
+  .signup {
+    background: $light;
+    color: white;
+    padding-bottom: 3.5rem;
+    input {
+      border-radius: 5px;
+      padding: 0.5em;
+      font-size: 1.1em;
+      min-width: 10em;
+    }
+    #email { color: $lightgrey; }
+    input[type=submit] { color: $dark; }
+  }
+
+  .bullets {
+    max-width: 900px;
+    margin: auto;
+    overflow: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    a { text-decoration: none; }
+    .bullet {
+      @media (min-width: 901px) {
+        flex: 0 0 calc(33.33% - 0.7rem);
+      }
+    }
+    .bullet-content {
+      margin-bottom: 2em;
+    }
+    h2 {
+      font-weight: 300;
+      font-size: 1.25em;
+      padding-top: $font-size / 7;
+      margin-bottom: $font-size;
+      border-bottom: 1px solid transparentize($darkgrey, .8);
+      display: inline-block;
+    }
+  }
+}
+
+// Membership page
+.membership {
+  .post-content p a {
+    padding: 2px 0.33rem;
+    background: $light;
+    border-radius: 3px;
+    color: #FFF;
+    &:hover { background: lighten($light, 10%); }
+  }
+}
+
+.quote {
+  font-size: 1.5em;
+  @media (max-width: 500px) { font-size: 1.2em; }
+}
+
+// Post lists
+.post-list {
+  h2 {
+    font-size: 1.2em;
+    margin-bottom: $font-size / 2;
+  }
+  .post {
+    margin-bottom: $font-size * 2;
+    margin-left: 0;
+  }
+  .post-meta { margin: 0; }
+  .excerpt {
+    max-height: 10em;
+    overflow: hidden;
+    * { font-size: 1em; margin-top: $font-size; }
+  }
+}
+
+// Individual post
+.post {
+  list-style: none;
+  text-align: left;
+  li { margin-left: 1em; }
+  p { line-height: 1.33; }
+
+  .post-header {
+    position: relative;
+    top: -1em;
+    z-index: 1;
+  }
+  .post-title {
+    max-width: $width / 1.1;
+    margin: auto;
+    border-bottom: 1px solid;
+    font-size: 1.25rem;
+    margin: 0;
+    padding-bottom: 0.25rem;
+    text-transform: capitalize;
+    @media (min-width: 901px) { width: $width / 1.1; }
+  }
+  .post-meta { margin-top: 0.5em; }
+  .bio { margin-top: $font-size; }
+}
+
+.events h2 { margin-bottom: 0; }
+
+.post-meta { font-size: 0.8em; }
+
+.contact {
+  margin-top: $font-size;
+  .detail { display: block; }
+}
+
+// Mailchimp form
+#mc-embedded-subscribe-form {
+  label { display: none; }
+  input { margin: 1px 1px; }
+  input[type=email], input[type=text] {
+    color: #666;
+    font-family: sans-serif;
+    padding: 0.75em 0.5em 0.5em 1em;
+    line-height: 1.1em;
+  }
+}
+
+// Top navigation bar
+.topbar {
+  width: 100%;
+  @media (max-width: 500px) { text-align: center; }
+
+  p.notice {
+    margin: 0;
+    padding: 0;
+    background: rgb(249,247,247);
+    font-size: 0.85rem;
+    text-align: center;
+    a {
+      color: darken($dark, 10);
+      padding: 0.5rem;
+      display: block;
+      &:hover { color: lighten($lightest, 5%); }
+    }
+    img {
+      height: 75px;
+      width: 100%;
+      object-position: bottom;
+      object-fit: cover;
+    }
+  }
+}
+
+.site.navigation {
+  float: left;
+  margin-top: 1.5rem;
+  margin-left: 2rem;
+  text-align: left;
+  z-index: 10;
+
+  svg.menu { display: none; }
+
+  @media (max-width: 500px) {
+    display: block;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    svg.menu { display: inline-block; margin-right: 0.5rem; }
+  }
+
+  .trigger {
+    color: $dark;
+    @media (max-width: 500px) {
+      background: $dark;
+      color: white;
+      a { color: white; }
+      padding: 0.25em;
+    }
+  }
+
+  ul {
+    position: absolute;
+    margin: 0;
+    opacity: 0;
+    z-index: 100;
+    transition: opacity 0.5s;
+    &.open {
+      opacity: 1;
+      li { display: block; }
+      @media (max-width: 500px) {
+        width: 100%;
+        padding-bottom: 0.5em;
+        background: $dark;
+      }
+    }
+    @media (max-width: 500px) { width: 100%; padding-bottom: 0.5em; }
+  }
+
+  li {
+    list-style: none;
+    display: none;
+    margin: 0;
+    padding-right: 2em;
+    @media (max-width: 500px) {
+      background: $dark;
+      a { color: white; }
+    }
+    &:hover {
+      @media (max-width: 500px) {
+        background: lighten($dark, 5);
+        a { color: white; }
+      }
+    }
+  }
+}
+
+.site.navigation:hover > ul {
+  opacity: 1;
+  background: white;
+  transition: opacity 0.8s;
+  li { display: block; }
+}
+
+// Search bar
+.search-bar {
+  float: right;
+  margin-top: 1.5rem;
+  margin-right: 2rem;
+  @media (max-width: 500px) { display: none; }
+
+  input { box-sizing: border-box; display: block; border: 1px solid $dark; }
+
+  div.search-and-submit {
+    position: relative;
+    input[type=search] {
+      appearance: none;
+      -webkit-appearance: none;
+      width: 100%;
+      padding: .5em .8em;
+      font-size: .9em;
+      font-style: italic;
+      border-radius: 3px;
+      margin: 0;
+      opacity: 0.5;
+    }
+    button[type=submit] {
+      position: absolute;
+      top: 0; right: 0; bottom: 0;
+      background: $dark;
+      outline: none;
+      border-radius: 3px;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+      padding: 5px 10px;
+      min-height: $font-size * 2;
+      img { height: 12px; opacity: .7; }
+    }
+  }
+  &:hover input[type=submit] { opacity: 1; transition: opacity 0.8s; }
+}
+
+.search-results { min-height: 25vh; }
+
+// Footer
+footer {
+  @include space;
+  background: $lightgrey;
+  color: $darkgrey;
+  margin-bottom: 0;
+  text-align: center;
+  line-height: 2em;
+  font-size: 0.8em;
+  a { color: $darkgrey; }
+  a:hover { color: $dark; }
+  span { padding: 0.5em; }
+  .wrapper { max-width: $width; margin: auto; }
+}
+
+@media print {
+  body {
+    font-size: 12pt !important;
+    color: #000;
+    background: #fff;
+  }
+}
