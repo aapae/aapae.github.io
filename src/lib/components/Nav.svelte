@@ -12,7 +12,7 @@
 
   <nav class="site navigation">
     <div class="trigger">
-      <button class="trigger-btn" on:click={() => (menuOpen = !menuOpen)}>
+      <button class="trigger-btn" on:click={() => (menuOpen = !menuOpen)} aria-label="Toggle menu">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list menu" viewBox="0 0 16 16">
           <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
         </svg>
@@ -30,3 +30,18 @@
     </ul>
   </nav>
 </div>
+
+<style>
+  .trigger-btn {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    font: inherit;
+    color: inherit;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+</style>

@@ -8,6 +8,6 @@ export function load() {
     ...getAllPosts('australian-ethics'),
     ...getAllPosts('book-reviews'),
     ...getAllPosts('reports')
-  ].sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+  ].sort((a, b) => b._fileDate.localeCompare(a._fileDate));
   return { posts: all };
 }
