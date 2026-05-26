@@ -1,47 +1,60 @@
-// Variables
-$darkest:     #221E3F;
-$dark:        #6A739E;
-$light:       #9395C5;
-$lightest:    #95A3E4;
-$darkgrey:    #424242;
-$lightgrey:   #CCCCCC;
-$font-size:   20px;
-$buffer:      200px;
-$width:       700px;
+@use "sass:color";
+@use "styles/forms";
+
+:root {
+  --color-darkest:  #221e3f;
+  --color-dark:     #6a739e;
+  --color-light:    #9395c5;
+  --color-lightest: #95a3e4;
+  --color-darkgrey: #424242;
+  --color-lightgrey: #cccccc;
+
+  // Derived colours (computed once at build time)
+  --color-dark-darkened:      #{color.adjust(#6a739e, $lightness: -10%)};
+  --color-light-lightened:    #{color.adjust(#9395c5, $lightness: 10%)};
+  --color-dark-lightened:     #{color.adjust(#6a739e, $lightness: 5%)};
+  --color-lightest-lightened: #{color.adjust(#95a3e4, $lightness: 5%)};
+  --color-darkgrey-faint:     #{rgba(#424242, 0.2)};
+
+  --font-size: 20px;
+  --buffer:    200px;
+  --width:     700px;
+}
 
 // Reset
 * { margin: 0; padding: 0; }
 
 html {
   height: 100%;
-  font-size: $font-size;
-  font-family: 'Merriweather', serif;
+  font-size: var(--font-size);
+  font-family: "Merriweather", serif;
   font-weight: 300;
-  border-top: 5px solid $dark;
-  color: $darkgrey;
-  background: $lightgrey;
+  border-top: 5px solid var(--color-dark);
+  color: var(--color-darkgrey);
+  background: var(--color-lightgrey);
 }
 
 header, section { background: white; }
 
 h1, h2, h3, h4, h5, p, ul, li, pre {
-  margin: 0; padding: 0;
-  margin-bottom: $font-size;
+  margin: 0;
+  padding: 0;
+  margin-bottom: var(--font-size);
   line-height: 1.3em;
   font-weight: 300;
 }
 
-h1 { font-size: 2em; margin-top: $font-size * 1.5; }
-h2 { font-size: 1.5em; margin-top: $font-size * 1.5; }
+h1 { font-size: 2em;   margin-top: calc(var(--font-size) * 1.5); }
+h2 { font-size: 1.5em; margin-top: calc(var(--font-size) * 1.5); }
 h3, h4 { font-weight: 400; }
 
-a { text-decoration: none; color: darken($dark, 10); }
-a:hover { text-decoration: none; color: $light; }
+a        { text-decoration: none; color: var(--color-dark-darkened); }
+a:hover  { text-decoration: none; color: var(--color-light); }
 
 pre { line-height: 1em; }
 
 blockquote {
-  border-left: 10px solid $lightgrey;
+  border-left: 10px solid var(--color-lightgrey);
   padding-left: 1.5em;
 }
 
@@ -65,7 +78,7 @@ blockquote {
 section {
   @include space;
   .wrapper {
-    max-width: $width;
+    max-width: var(--width);
     margin: auto;
     padding: 1em;
     overflow: hidden;
@@ -81,41 +94,35 @@ section {
   .hero {
     h1, h2, h3, h4, h5, h6, p { margin: 0; padding: 0; }
     div {
-      padding: $buffer 1em;
+      padding: var(--buffer) 1em;
       text-align: left;
       margin: auto;
       max-width: 640px;
       @media (min-width: 501px) and (max-width: 900px) {
-        margin-top: $buffer / 2;
-        padding: $buffer / 2 1em;
+        margin-top: calc(var(--buffer) / 2);
+        padding: calc(var(--buffer) / 2) 1em;
       }
       @media (max-width: 500px) {
         margin-top: 0;
         text-align: center;
-        padding: $buffer / 4 1em;
+        padding: calc(var(--buffer) / 4) 1em;
       }
     }
     h1 { font-size: 2em; line-height: 1em; }
-    span { color: $dark; }
+    span { color: var(--color-dark); }
   }
 
   .about {
-    background: $dark;
+    background: var(--color-dark);
     color: white;
   }
 
   .signup {
-    background: $light;
+    background: var(--color-light);
     color: white;
     padding-bottom: 3.5rem;
-    input {
-      border-radius: 5px;
-      padding: 0.5em;
-      font-size: 1.1em;
-      min-width: 10em;
-    }
-    #email { color: $lightgrey; }
-    input[type=submit] { color: $dark; }
+    #email { color: var(--color-lightgrey); }
+    input[type="submit"] { color: var(--color-dark); }
   }
 
   .bullets {
@@ -124,19 +131,22 @@ section {
     display: grid;
     grid-template-columns: 1fr;
     gap: 1rem;
-    @media (min-width: 590px)  { grid-template-columns: repeat(2, minmax(285px, 300px)); justify-content: center; }
-    @media (min-width: 1180px) { grid-template-columns: repeat(4, 1fr); justify-content: stretch; }
-    gap: 1rem;
-    a { text-decoration: none; }
-    .bullet-content {
-      margin-bottom: 2em;
+    @media (min-width: 590px) {
+      grid-template-columns: repeat(2, minmax(285px, 300px));
+      justify-content: center;
     }
+    @media (min-width: 1180px) {
+      grid-template-columns: repeat(4, 1fr);
+      justify-content: stretch;
+    }
+    a { text-decoration: none; }
+    .bullet-content { margin-bottom: 2em; }
     h2 {
       font-weight: 300;
       font-size: 1.25em;
-      padding-top: $font-size / 7;
-      margin-bottom: $font-size;
-      border-bottom: 1px solid transparentize($darkgrey, .8);
+      padding-top: calc(var(--font-size) / 7);
+      margin-bottom: var(--font-size);
+      border-bottom: 1px solid var(--color-darkgrey-faint);
       display: inline-block;
     }
   }
@@ -146,10 +156,10 @@ section {
 .membership {
   .post-content p a {
     padding: 2px 0.33rem;
-    background: $light;
+    background: var(--color-light);
     border-radius: 3px;
-    color: #FFF;
-    &:hover { background: lighten($light, 10%); }
+    color: #fff;
+    &:hover { background: var(--color-light-lightened); }
   }
 }
 
@@ -162,17 +172,17 @@ section {
 .post-list {
   h2 {
     font-size: 1.2em;
-    margin-bottom: $font-size / 2;
+    margin-bottom: calc(var(--font-size) / 2);
   }
   .post {
-    margin-bottom: $font-size * 2;
+    margin-bottom: calc(var(--font-size) * 2);
     margin-left: 0;
   }
   .post-meta { margin: 0; }
   .excerpt {
     max-height: 10em;
     overflow: hidden;
-    * { font-size: 1em; margin-top: $font-size; }
+    * { font-size: 1em; margin-top: var(--font-size); }
   }
 }
 
@@ -181,25 +191,20 @@ section {
   list-style: none;
   text-align: left;
   li { margin-left: 1em; }
-  p { line-height: 1.33; }
+  p  { line-height: 1.33; }
 
-  .post-header {
-    position: relative;
-    top: -1em;
-    z-index: 1;
-  }
+  .post-header { position: relative; top: -1em; z-index: 1; }
   .post-title {
-    max-width: $width / 1.1;
-    margin: auto;
+    max-width: calc(var(--width) / 1.1);
+    margin: 0;
     border-bottom: 1px solid;
     font-size: 1.25rem;
-    margin: 0;
     padding-bottom: 0.25rem;
     text-transform: capitalize;
-    @media (min-width: 901px) { width: $width / 1.1; }
+    @media (min-width: 901px) { width: calc(var(--width) / 1.1); }
   }
   .post-meta { margin-top: 0.5em; }
-  .bio { margin-top: $font-size; }
+  .bio       { margin-top: var(--font-size); }
 }
 
 .events h2 { margin-bottom: 0; }
@@ -207,15 +212,16 @@ section {
 .post-meta { font-size: 0.8em; }
 
 .contact {
-  margin-top: $font-size;
+  margin-top: var(--font-size);
   .detail { display: block; }
 }
 
 // Mailchimp form
 #mc-embedded-subscribe-form {
   label { display: none; }
-  input { margin: 1px 1px; }
-  input[type=email], input[type=text] {
+  input { margin: 1px; }
+  input[type="email"],
+  input[type="text"] {
     color: #666;
     font-family: sans-serif;
     padding: 0.75em 0.5em 0.5em 1em;
@@ -231,14 +237,14 @@ section {
   p.notice {
     margin: 0;
     padding: 0;
-    background: rgb(249,247,247);
+    background: rgb(249, 247, 247);
     font-size: 0.85rem;
     text-align: center;
     a {
-      color: darken($dark, 10);
+      color: var(--color-dark-darkened);
       padding: 0.5rem;
       display: block;
-      &:hover { color: lighten($lightest, 5%); }
+      &:hover { color: var(--color-lightest-lightened); }
     }
     img {
       height: 75px;
@@ -267,9 +273,9 @@ section {
   }
 
   .trigger {
-    color: $dark;
+    color: var(--color-dark);
     @media (max-width: 500px) {
-      background: $dark;
+      background: var(--color-dark);
       color: white;
       a { color: white; }
       padding: 0.25em;
@@ -288,7 +294,7 @@ section {
       @media (max-width: 500px) {
         width: 100%;
         padding-bottom: 0.5em;
-        background: $dark;
+        background: var(--color-dark);
       }
     }
     @media (max-width: 500px) { width: 100%; padding-bottom: 0.5em; }
@@ -300,12 +306,12 @@ section {
     margin: 0;
     padding-right: 2em;
     @media (max-width: 500px) {
-      background: $dark;
+      background: var(--color-dark);
       a { color: white; }
     }
     &:hover {
       @media (max-width: 500px) {
-        background: lighten($dark, 5);
+        background: var(--color-dark-lightened);
         a { color: white; }
       }
     }
@@ -326,35 +332,39 @@ section {
   margin-right: 2rem;
   @media (max-width: 500px) { display: none; }
 
-  input { box-sizing: border-box; display: block; border: 1px solid $dark; }
+  input {
+    box-sizing: border-box;
+    display: block;
+    border: 1px solid var(--color-dark);
+  }
 
   div.search-and-submit {
     position: relative;
-    input[type=search] {
+    input[type="search"] {
       appearance: none;
       -webkit-appearance: none;
       width: 100%;
-      padding: .5em .8em;
-      font-size: .9em;
+      padding: 0.5em 0.8em;
+      font-size: 0.9em;
       font-style: italic;
       border-radius: 3px;
       margin: 0;
       opacity: 0.5;
     }
-    button[type=submit] {
+    button[type="submit"] {
       position: absolute;
       top: 0; right: 0; bottom: 0;
-      background: $dark;
+      background: var(--color-dark);
       outline: none;
       border-radius: 3px;
       border-top-left-radius: 0;
       border-bottom-left-radius: 0;
       padding: 5px 10px;
-      min-height: $font-size * 2;
-      img { height: 12px; opacity: .7; }
+      min-height: calc(var(--font-size) * 2);
+      img { height: 12px; opacity: 0.7; }
     }
   }
-  &:hover input[type=submit] { opacity: 1; transition: opacity 0.8s; }
+  &:hover input[type="submit"] { opacity: 1; transition: opacity 0.8s; }
 }
 
 .search-results { min-height: 25vh; }
@@ -362,22 +372,18 @@ section {
 // Footer
 footer {
   @include space;
-  background: $lightgrey;
-  color: $darkgrey;
+  background: var(--color-lightgrey);
+  color: var(--color-darkgrey);
   margin-bottom: 0;
   text-align: center;
   line-height: 2em;
   font-size: 0.8em;
-  a { color: $darkgrey; }
-  a:hover { color: $dark; }
-  span { padding: 0.5em; }
-  .wrapper { max-width: $width; margin: auto; }
+  a       { color: var(--color-darkgrey); }
+  a:hover { color: var(--color-dark); }
+  span    { padding: 0.5em; }
+  .wrapper { max-width: var(--width); margin: auto; }
 }
 
 @media print {
-  body {
-    font-size: 12pt !important;
-    color: #000;
-    background: #fff;
-  }
+  body { font-size: 12pt !important; color: #000; background: #fff; }
 }
