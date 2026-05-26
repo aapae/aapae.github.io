@@ -1,28 +1,32 @@
 @use "sass:color";
 @use "styles/forms";
+@use "styles/pages";
 
 :root {
-  --color-darkest:  #221e3f;
-  --color-dark:     #6a739e;
-  --color-light:    #9395c5;
+  --color-darkest: #221e3f;
+  --color-dark: #6a739e;
+  --color-light: #9395c5;
   --color-lightest: #95a3e4;
   --color-darkgrey: #424242;
   --color-lightgrey: #cccccc;
 
   // Derived colours (computed once at build time)
-  --color-dark-darkened:      #{color.adjust(#6a739e, $lightness: -10%)};
-  --color-light-lightened:    #{color.adjust(#9395c5, $lightness: 10%)};
-  --color-dark-lightened:     #{color.adjust(#6a739e, $lightness: 5%)};
+  --color-dark-darkened: #{color.adjust(#6a739e, $lightness: -10%)};
+  --color-light-lightened: #{color.adjust(#9395c5, $lightness: 10%)};
+  --color-dark-lightened: #{color.adjust(#6a739e, $lightness: 5%)};
   --color-lightest-lightened: #{color.adjust(#95a3e4, $lightness: 5%)};
-  --color-darkgrey-faint:     #{rgba(#424242, 0.2)};
+  --color-darkgrey-faint: #{rgba(#424242, 0.2)};
 
   --font-size: 20px;
-  --buffer:    200px;
-  --width:     700px;
+  --buffer: 200px;
+  --width: 700px;
 }
 
 // Reset
-* { margin: 0; padding: 0; }
+* {
+  margin: 0;
+  padding: 0;
+}
 
 html {
   height: 100%;
@@ -34,9 +38,20 @@ html {
   background: var(--color-lightgrey);
 }
 
-header, section { background: white; }
+header,
+section {
+  background: white;
+}
 
-h1, h2, h3, h4, h5, p, ul, li, pre {
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+ul,
+li,
+pre {
   margin: 0;
   padding: 0;
   margin-bottom: var(--font-size);
@@ -44,14 +59,31 @@ h1, h2, h3, h4, h5, p, ul, li, pre {
   font-weight: 300;
 }
 
-h1 { font-size: 2em;   margin-top: calc(var(--font-size) * 1.5); }
-h2 { font-size: 1.5em; margin-top: calc(var(--font-size) * 1.5); }
-h3, h4 { font-weight: 400; }
+h1 {
+  font-size: 2em;
+  margin-top: calc(var(--font-size) * 1.5);
+}
+h2 {
+  font-size: 1.5em;
+  margin-top: calc(var(--font-size) * 1.5);
+}
+h3,
+h4 {
+  font-weight: 400;
+}
 
-a        { text-decoration: none; color: var(--color-dark-darkened); }
-a:hover  { text-decoration: none; color: var(--color-light); }
+a {
+  text-decoration: none;
+  color: var(--color-dark-darkened);
+}
+a:hover {
+  text-decoration: none;
+  color: var(--color-light);
+}
 
-pre { line-height: 1em; }
+pre {
+  line-height: 1em;
+}
 
 blockquote {
   border-left: 10px solid var(--color-lightgrey);
@@ -83,89 +115,16 @@ section {
     padding: 1em;
     overflow: hidden;
   }
-  img { max-width: 100%; }
-}
-
-// Home page
-.home {
-  min-height: 100vh;
-  text-align: center;
-
-  .hero {
-    h1, h2, h3, h4, h5, h6, p { margin: 0; padding: 0; }
-    div {
-      padding: var(--buffer) 1em;
-      text-align: left;
-      margin: auto;
-      max-width: 640px;
-      @media (min-width: 501px) and (max-width: 900px) {
-        margin-top: calc(var(--buffer) / 2);
-        padding: calc(var(--buffer) / 2) 1em;
-      }
-      @media (max-width: 500px) {
-        margin-top: 0;
-        text-align: center;
-        padding: calc(var(--buffer) / 4) 1em;
-      }
-    }
-    h1 { font-size: 2em; line-height: 1em; }
-    span { color: var(--color-dark); }
-  }
-
-  .about {
-    background: var(--color-dark);
-    color: white;
-  }
-
-  .signup {
-    background: var(--color-light);
-    color: white;
-    padding-bottom: 3.5rem;
-    #email { color: var(--color-lightgrey); }
-    input[type="submit"] { color: var(--color-dark); }
-  }
-
-  .bullets {
-    max-width: 1200px;
-    margin: auto;
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 1rem;
-    @media (min-width: 590px) {
-      grid-template-columns: repeat(2, minmax(285px, 300px));
-      justify-content: center;
-    }
-    @media (min-width: 1180px) {
-      grid-template-columns: repeat(4, 1fr);
-      justify-content: stretch;
-    }
-    a { text-decoration: none; }
-    .bullet-content { margin-bottom: 2em; }
-    h2 {
-      font-weight: 300;
-      font-size: 1.25em;
-      padding-top: calc(var(--font-size) / 7);
-      margin-bottom: var(--font-size);
-      border-bottom: 1px solid var(--color-darkgrey-faint);
-      display: inline-block;
-    }
-  }
-}
-
-// Membership page
-.membership {
-  .post-content p a {
-    padding: 2px 0.33rem;
-    background: var(--color-light);
-    border-radius: 3px;
-    color: #fff;
-    &:hover { background: var(--color-light-lightened); }
+  img {
+    max-width: 100%;
   }
 }
 
 .quote {
   font-size: 1.5em;
-  @media (max-width: 500px) { font-size: 1.2em; }
+  @media (max-width: 500px) {
+    font-size: 1.2em;
+  }
 }
 
 // Post lists
@@ -178,11 +137,16 @@ section {
     margin-bottom: calc(var(--font-size) * 2);
     margin-left: 0;
   }
-  .post-meta { margin: 0; }
+  .post-meta {
+    margin: 0;
+  }
   .excerpt {
     max-height: 10em;
     overflow: hidden;
-    * { font-size: 1em; margin-top: var(--font-size); }
+    * {
+      font-size: 1em;
+      margin-top: var(--font-size);
+    }
   }
 }
 
@@ -190,10 +154,18 @@ section {
 .post {
   list-style: none;
   text-align: left;
-  li { margin-left: 1em; }
-  p  { line-height: 1.33; }
+  li {
+    margin-left: 1em;
+  }
+  p {
+    line-height: 1.33;
+  }
 
-  .post-header { position: relative; top: -1em; z-index: 1; }
+  .post-header {
+    position: relative;
+    top: -1em;
+    z-index: 1;
+  }
   .post-title {
     max-width: calc(var(--width) / 1.1);
     margin: 0;
@@ -201,25 +173,41 @@ section {
     font-size: 1.25rem;
     padding-bottom: 0.25rem;
     text-transform: capitalize;
-    @media (min-width: 901px) { width: calc(var(--width) / 1.1); }
+    @media (min-width: 901px) {
+      width: calc(var(--width) / 1.1);
+    }
   }
-  .post-meta { margin-top: 0.5em; }
-  .bio       { margin-top: var(--font-size); }
+  .post-meta {
+    margin-top: 0.5em;
+  }
+  .bio {
+    margin-top: var(--font-size);
+  }
 }
 
-.events h2 { margin-bottom: 0; }
+.events h2 {
+  margin-bottom: 0;
+}
 
-.post-meta { font-size: 0.8em; }
+.post-meta {
+  font-size: 0.8em;
+}
 
 .contact {
   margin-top: var(--font-size);
-  .detail { display: block; }
+  .detail {
+    display: block;
+  }
 }
 
 // Mailchimp form
 #mc-embedded-subscribe-form {
-  label { display: none; }
-  input { margin: 1px; }
+  label {
+    display: none;
+  }
+  input {
+    margin: 1px;
+  }
   input[type="email"],
   input[type="text"] {
     color: #666;
@@ -232,7 +220,9 @@ section {
 // Top navigation bar
 .topbar {
   width: 100%;
-  @media (max-width: 500px) { text-align: center; }
+  @media (max-width: 500px) {
+    text-align: center;
+  }
 
   p.notice {
     margin: 0;
@@ -244,7 +234,9 @@ section {
       color: var(--color-dark-darkened);
       padding: 0.5rem;
       display: block;
-      &:hover { color: var(--color-lightest-lightened); }
+      &:hover {
+        color: var(--color-lightest-lightened);
+      }
     }
     img {
       height: 75px;
@@ -262,22 +254,26 @@ section {
   text-align: left;
   z-index: 10;
 
-  svg.menu { display: none; }
+  svg.menu {
+    display: inline-block;
+    margin-right: 0.5rem;
+  }
 
   @media (max-width: 500px) {
     display: block;
     width: 100%;
     margin: 0;
     text-align: center;
-    svg.menu { display: inline-block; margin-right: 0.5rem; }
   }
 
   .trigger {
     color: var(--color-dark);
+    cursor: pointer;
+    user-select: none;
     @media (max-width: 500px) {
+      display: block;
       background: var(--color-dark);
       color: white;
-      a { color: white; }
       padding: 0.25em;
     }
   }
@@ -285,24 +281,20 @@ section {
   ul {
     position: absolute;
     margin: 0;
+    background: white;
     opacity: 0;
+    pointer-events: none;
     z-index: 100;
-    transition: opacity 0.5s;
-    &.open {
-      opacity: 1;
-      li { display: block; }
-      @media (max-width: 500px) {
-        width: 100%;
-        padding-bottom: 0.5em;
-        background: var(--color-dark);
-      }
+    transition: opacity 0.25s ease;
+    @media (max-width: 500px) {
+      width: 100%;
+      padding-bottom: 0.5em;
+      background: var(--color-dark);
     }
-    @media (max-width: 500px) { width: 100%; padding-bottom: 0.5em; }
   }
 
   li {
     list-style: none;
-    display: none;
     margin: 0;
     padding-right: 2em;
     @media (max-width: 500px) {
@@ -318,11 +310,11 @@ section {
   }
 }
 
-.site.navigation:hover > ul {
+// Show menu on desktop hover or mobile checkbox toggle
+.site.navigation:hover > ul,
+#nav-toggle:checked ~ ul {
   opacity: 1;
-  background: white;
-  transition: opacity 0.8s;
-  li { display: block; }
+  pointer-events: auto;
 }
 
 // Search bar
@@ -330,7 +322,9 @@ section {
   float: right;
   margin-top: 1.5rem;
   margin-right: 2rem;
-  @media (max-width: 500px) { display: none; }
+  @media (max-width: 500px) {
+    display: none;
+  }
 
   input {
     box-sizing: border-box;
@@ -353,7 +347,9 @@ section {
     }
     button[type="submit"] {
       position: absolute;
-      top: 0; right: 0; bottom: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
       background: var(--color-dark);
       outline: none;
       border-radius: 3px;
@@ -361,13 +357,21 @@ section {
       border-bottom-left-radius: 0;
       padding: 5px 10px;
       min-height: calc(var(--font-size) * 2);
-      img { height: 12px; opacity: 0.7; }
+      img {
+        height: 12px;
+        opacity: 0.7;
+      }
     }
   }
-  &:hover input[type="submit"] { opacity: 1; transition: opacity 0.8s; }
+  &:hover input[type="submit"] {
+    opacity: 1;
+    transition: opacity 0.8s;
+  }
 }
 
-.search-results { min-height: 25vh; }
+.search-results {
+  min-height: 25vh;
+}
 
 // Footer
 footer {
@@ -378,12 +382,25 @@ footer {
   text-align: center;
   line-height: 2em;
   font-size: 0.8em;
-  a       { color: var(--color-darkgrey); }
-  a:hover { color: var(--color-dark); }
-  span    { padding: 0.5em; }
-  .wrapper { max-width: var(--width); margin: auto; }
+  a {
+    color: var(--color-darkgrey);
+  }
+  a:hover {
+    color: var(--color-dark);
+  }
+  span {
+    padding: 0.5em;
+  }
+  .wrapper {
+    max-width: var(--width);
+    margin: auto;
+  }
 }
 
 @media print {
-  body { font-size: 12pt !important; color: #000; background: #fff; }
+  body {
+    font-size: 12pt !important;
+    color: #000;
+    background: #fff;
+  }
 }

@@ -1,6 +1,5 @@
 <script>
   export let displayBanner = false;
-  let menuOpen = false;
 </script>
 
 <div class="topbar">
@@ -16,51 +15,34 @@
   {/if}
 
   <nav class="site navigation">
-    <div class="trigger">
-      <button
-        class="trigger-btn"
-        on:click={() => (menuOpen = !menuOpen)}
-        aria-label="Toggle menu"
+    <input type="checkbox" id="nav-toggle" hidden />
+    <label for="nav-toggle" class="trigger">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="16"
+        height="16"
+        fill="currentColor"
+        class="bi bi-list menu"
+        viewBox="0 0 16 16"
       >
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          width="16"
-          height="16"
-          fill="currentColor"
-          class="bi bi-list menu"
-          viewBox="0 0 16 16"
-        >
-          <path
-            fill-rule="evenodd"
-            d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"
-          />
-        </svg>
-        AAPAE
-      </button>
-    </div>
-    <ul id="menu" class:open={menuOpen}>
+        <path
+          fill-rule="evenodd"
+          d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"
+        />
+      </svg>
+      AAPAE
+    </label>
+    <ul>
       <li><a href="/">Home</a></li>
       <li><a href="/about">About</a></li>
       <li><a href="/events">Events</a></li>
       <li><a href="/membership">Join Us</a></li>
       <li><a href="/contact">Contact</a></li>
       <li><a href="/newsletters">Newsletters, etc</a></li>
+      <li>
+        <a href="https://ethicsolympiad.org/?page_id=6616">Ethics Olympiad</a>
+      </li>
       <li class="search-nav"><a href="/search">Search</a></li>
     </ul>
   </nav>
 </div>
-
-<style>
-  .trigger-btn {
-    background: none;
-    border: none;
-    padding: 0;
-    margin: 0;
-    font: inherit;
-    color: inherit;
-    cursor: pointer;
-    display: inline-flex;
-    align-items: center;
-    gap: 0.25rem;
-  }
-</style>
