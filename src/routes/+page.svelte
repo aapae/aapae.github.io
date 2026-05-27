@@ -24,7 +24,7 @@
           target="_blank"
         >
           <h3>Subscribe to the AAPAE's Listserv today!</h3>
-          <label for="mce-EMAIL">Email Address</label>
+          <!-- <label for="mce-EMAIL">Email Address</label> -->
           <input
             type="email"
             name="EMAIL"

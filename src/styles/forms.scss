@@ -1,13 +1,168 @@
-input {
-  border: 1px solid var(--color-lightgrey, #ccc);
-  border-radius: 5px;
-  padding: 0.25em 0.5rem;
+// ─── Base text inputs ────────────────────────────────────────────────────────
+
+input[type="text"],
+input[type="email"],
+input[type="search"],
+input[type="password"],
+input[type="url"],
+input[type="tel"],
+input[type="number"],
+textarea,
+select {
+  appearance: none;
+  -webkit-appearance: none;
+  box-sizing: border-box;
+  border: 1.5px solid var(--color-lightgrey);
+  border-radius: 6px;
+  padding: 0.55em 0.85em;
   min-width: 10rem;
   font-size: 0.9rem;
-  color: var(--color-darkgrey, #333);
+  font-family: inherit;
+  color: var(--color-darkgrey);
+  background: #fff;
+  outline: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    border-color: var(--color-light);
+  }
+
+  &:focus {
+    border-color: var(--color-dark);
+    box-shadow: 0 0 0 3px rgba(106, 115, 158, 0.15);
+  }
 }
 
-input::placeholder {
-  color: var(--color-lightgrey, #333);
+input::placeholder,
+textarea::placeholder {
+  color: var(--color-lightgrey);
   font-weight: 200;
+  font-style: italic;
+}
+
+// ─── Submit / action inputs ──────────────────────────────────────────────────
+
+input[type="submit"],
+input[type="button"] {
+  appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+  padding: 0.55em 1.25em;
+  font-size: 0.9rem;
+  font-family: inherit;
+  font-weight: 400;
+  background: var(--color-dark);
+  color: white;
+  transition: background 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    background: var(--color-dark-darkened);
+    box-shadow: 0 2px 8px rgba(106, 115, 158, 0.3);
+  }
+
+  &:active {
+    background: var(--color-darkest);
+  }
+}
+
+// ─── Mailchimp subscribe form ────────────────────────────────────────────────
+
+#mc-embedded-subscribe-form {
+  input {
+    margin: 1px;
+  }
+
+  input[type="email"],
+  input[type="text"] {
+    padding: 0.75em 1em 0.55em;
+    line-height: 1.1em;
+  }
+}
+
+// ─── Search bar ──────────────────────────────────────────────────────────────
+
+.search-bar {
+  input {
+    box-sizing: border-box;
+    display: block;
+  }
+
+  div.search-and-submit {
+    input[type="search"] {
+      width: 100%;
+      padding: 0.5em 2.75em 0.5em 0.85em;
+      font-size: 0.9em;
+      font-style: italic;
+      border-color: var(--color-dark);
+      border-radius: 6px;
+      margin: 0;
+      opacity: 0.6;
+      transition: opacity 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+
+      &:focus {
+        opacity: 1;
+      }
+    }
+
+    button[type="submit"] {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      background: var(--color-dark);
+      border: none;
+      outline: none;
+      border-radius: 0 6px 6px 0;
+      padding: 5px 10px;
+      min-height: calc(var(--font-size) * 2);
+      cursor: pointer;
+      transition: background 0.2s ease;
+
+      &:hover {
+        background: var(--color-dark-darkened);
+      }
+
+      img {
+        height: 12px;
+        opacity: 0.7;
+      }
+    }
+  }
+
+  &:hover input[type="search"] {
+    opacity: 1;
+  }
+}
+
+// ─── Signup section overrides ────────────────────────────────────────────────
+
+.home .signup {
+  input[type="text"],
+  input[type="email"] {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.4);
+    color: white;
+
+    &::placeholder {
+      color: rgba(255, 255, 255, 0.6);
+    }
+
+    &:focus {
+      border-color: rgba(255, 255, 255, 0.8);
+      box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.15);
+    }
+  }
+
+  input[type="submit"] {
+    background: white;
+    color: var(--color-dark);
+
+    &:hover {
+      background: var(--color-lightest-lightened);
+      color: white;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    }
+  }
 }
