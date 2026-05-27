@@ -28,6 +28,7 @@
       <a href="/events">Events</a>
       <a href="/reports">Reports</a>
       <a href="/search">Search</a>
+      <a href="https://ethicsolympiad.org/?page_id=6616">Ethics Olympiad</a>
     </div>
   </nav>
   <div class="final">
