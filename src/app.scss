@@ -20,6 +20,7 @@
   --font-size: 20px;
   --buffer: 200px;
   --width: 700px;
+  --max-width: 1200px;
 }
 
 // Reset
@@ -299,12 +300,16 @@ section {
     padding-right: 2em;
     @media (max-width: 500px) {
       background: var(--color-dark);
-      a { color: white; }
+      a {
+        color: white;
+      }
     }
     &:hover {
       @media (max-width: 500px) {
         background: var(--color-dark-lightened);
-        a { color: white; }
+        a {
+          color: white;
+        }
       }
     }
   }
@@ -373,27 +378,85 @@ section {
   min-height: 25vh;
 }
 
-// Footer
 footer {
-  @include space;
+  padding: 50px 1rem;
   background: var(--color-lightgrey);
   color: var(--color-darkgrey);
-  margin-bottom: 0;
-  text-align: center;
-  line-height: 2em;
-  font-size: 0.8em;
+  font-size: 0.8rem;
+
+  & > * {
+    max-width: var(--max-width, 900px);
+    margin: auto;
+    text-align: left;
+  }
+
+  .logo {
+    min-width: clamp(300px, 500px, 50vw);
+  }
+  .logo img {
+    max-width: 350px;
+    margin-left: -1rem;
+  }
+
+  nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .nav-group {
+    a {
+      display: block;
+    }
+  }
+
+  .final {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1rem;
+    padding-top: 50px;
+
+    *:first-child {
+      margin-right: auto;
+    }
+  }
+
+  h5 {
+    font-weight: 400;
+    font-size: 0.9rem;
+    margin-block-end: 0.25rem;
+  }
+
   a {
     color: var(--color-darkgrey);
   }
+
   a:hover {
     color: var(--color-dark);
   }
-  span {
-    padding: 0.5em;
-  }
-  .wrapper {
-    max-width: var(--width);
-    margin: auto;
+
+  @media (max-width: 500px) {
+    .logo img {
+      margin: 0;
+      width: 100vh;
+    }
+    nav {
+      flex-direction: column;
+      gap: 1rem;
+    }
+    & > * > * {
+      text-align: center;
+      min-width: 300px;
+    }
+    .final {
+      flex-direction: column;
+      gap: 0.5rem;
+      * {
+        margin: 0 auto;
+      }
+    }
   }
 }
 
