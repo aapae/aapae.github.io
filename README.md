@@ -52,12 +52,12 @@ Pages live in the [pages](pages/) directory.  You shouldn't have to change these
 		layout: page
 		title: A swanky title
 		permalink: /the-url-for-the-page/
-		--- 
+		---
 
 		Then put your content here.
 
 
-#### Posts 
+#### Posts
 
 Most other content will be a type of post which live in the [_posts](/_posts/) directory.  Anything such as a blog post, an event, or a publication should live here.  Different post types will have different meta-data but all require a `layout`, `title`, and `category` at the very least.
 
@@ -84,13 +84,24 @@ Information about people lives in it's own [_people](/_people/) directory.  Just
 		name: Hugh Breakey
 		role: President
 		affiliation: Griffith University
-		address: Institute for Ethics, Governance and Law, Griffith University, Nathan Campus, Brisbane, Qld. 4122  
-		phone: (07) 3735-5189  
-		email: h.breakey@griffith.edu.au  
-		blog: http://hughbreakey.blogspot.com.au/  
+		address: Institute for Ethics, Governance and Law, Griffith University, Nathan Campus, Brisbane, Qld. 4122
+		phone: (07) 3735-5189
+		email: h.breakey@griffith.edu.au
+		blog: http://hughbreakey.blogspot.com.au/
 		---
 
 		Hugh would write his profile here...
+
+
+## Deployment
+
+This site is hosted via Cloudflare pages. It is automatically deployed from github main branch.
+
+    Build command:pnpm build
+    Deploy command:npx wrangler deploy
+    Version command:npx wrangler versions upload
+    Root directory:/
+
 
 ## Questions
 
