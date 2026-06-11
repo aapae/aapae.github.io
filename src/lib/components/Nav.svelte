@@ -5,7 +5,7 @@
 <div class="topbar">
   {#if displayBanner}
     <p class="notice">
-      <a href="#">
+      <a href="/events/truth-democracy-and-misinformation-online-workshop">
         Truth, Democracy, and Misinformation | AAPAE Online Workshop <br />
         Tuesday, 17 November 2026 | Call for abstracts
       </a>
