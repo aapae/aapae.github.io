@@ -1,15 +1,13 @@
 <script>
-  export let displayBanner = false;
+  export let displayBanner = true;
 </script>
 
 <div class="topbar">
   {#if displayBanner}
     <p class="notice">
-      <a href="/events/cfp-ethics-of-ai">
-        Call for papers: The Ethics of Artificial Intelligence and the
-        Professions<br />
-        Special edition of Research in Ethical Issues in Organizations, the official
-        journal of the AAPAE.
+      <a href="#">
+        Truth, Democracy, and Misinformation | AAPAE Online Workshop <br />
+        Tuesday, 17 November 2026 | Call for abstracts
       </a>
     </p>
   {/if}
