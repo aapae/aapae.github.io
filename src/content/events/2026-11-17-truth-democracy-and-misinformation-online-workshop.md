@@ -12,6 +12,8 @@ location: Online
 
 ## Call for abstracts
 
+[**Registration is now open**](https://events.humanitix.com/aapae-misinformation-workshop)
+
 In an era shaped by accelerating technological change, social fragmentation, political polarisation and growing distrust in institutions, questions surrounding truth, misinformation and democratic legitimacy have become some of the defining ethical challenges of our time. From artificial intelligence and algorithmic influence to climate communication, public health, energy transitions, media ecosystems and governance, misinformation (unknowingly shared untruths) and disinformation (deliberate lies) increasingly shape how societies understand reality, negotiate difference and make collective decisions.
 
 What are the ethical dimensions of misinformation and its implications for democracy, public trust, governance, and social cohesion across diverse sectors and industries?
@@ -39,9 +41,13 @@ We invite papers, panels, roundtables, workshops, creative practice contribution
 
 Workshop proceedings and contributors will be invited to publish in our series: Research in Ethical Issues in Organizations (REIO), the official journal of the AAPAE: https://bookstore.emerald.com/research-in-ethical-issues-in-organizations
 
+## Register Now
+
+Book your ticket online https://events.humanitix.com/aapae-misinformation-workshop
+
 Submission: Abstracts (500 words) should be submitted to Dr Hugh Breakey (h.breakey@griffith.edu.au) and Dr Jacqueline Boaks (jacqueline.boaks@curtin.edu.au) by 1 September 2026.
 
-To register to attend: Please contact Dr Hugh Breakey (h.breakey@griffith.edu.au) and Dr Jacqueline Boaks (jacqueline.boaks@curtin.edu.au) by 1 November 2026.
+Alternatively, please contact Dr Hugh Breakey (h.breakey@griffith.edu.au) and Dr Jacqueline Boaks (jacqueline.boaks@curtin.edu.au) by 1 November 2026.
 
 ## Contacts
 
