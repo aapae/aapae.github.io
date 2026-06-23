@@ -6,7 +6,8 @@
   {#if displayBanner}
     <p class="notice">
       <a href="/events/truth-democracy-and-misinformation-online-workshop">
-        Truth, Democracy, and Misinformation | AAPAE Online Workshop <br />
+        Truth, Democracy, and Misinformation | AAPAE Online Workshop via Zoom<br
+        />
         Tuesday, 17 November 2026 | Call for abstracts
       </a>
     </p>

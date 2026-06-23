@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Truth, Democracy, and Misinformation | AAPAE Online Workshop
+title: Truth, Democracy, and Misinformation | AAPAE Online Workshop via Zoom
 categories: events
 conference-dates: 17 November 2026
 location: Online
