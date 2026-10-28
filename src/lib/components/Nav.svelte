@@ -8,7 +8,7 @@
       <a href="/events/truth-democracy-and-misinformation-online-workshop">
         Truth, Democracy, and Misinformation | AAPAE Online Workshop via Zoom<br
         />
-        Tuesday, 17 November 2026 | Call for abstracts
+        Tuesday, 17 November 2026 | Registration Open
       </a>
     </p>
   {/if}
