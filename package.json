@@ -10,7 +10,7 @@
     "deploy": "pnpm build && wrangler deploy"
   },
   "devDependencies": {
-    "@sveltejs/adapter-static": "^3.0.0",
+    "@sveltejs/adapter-static": "^3.0.11",
     "@sveltejs/kit": "^2.70.1",
     "@sveltejs/vite-plugin-svelte": "^3.0.0",
     "sass": "^1.70.0",
