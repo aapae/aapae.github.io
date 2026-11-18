@@ -1,5 +1,5 @@
 <script>
-  export let displayBanner = true;
+  export let displayBanner = false;
 </script>
 
 <div class="topbar">
