@@ -33,12 +33,13 @@ The Australian Association for Professional and Applied Ethics (AAPAE) grew out 
 
 ## Past Presidents
 
+- Hugh Breakey (2013-2026)
 - Stephen Cohen (2012)
 - Betty Chaar (2011)
-- Michael Schwartz (2008, 2009, 2010)
-- Howard Harris (2006, 2007)
-- Chris Provis (2004, 2005)
-- John Morgan (2002, 2003)
+- Michael Schwartz (2008-2010)
+- Howard Harris (2006-2007)
+- Chris Provis (2004-2005)
+- John Morgan (2002-2003)
 - Bruce Langtry (2000, 2001)
 - Stephen Cohen (1998, 1999)
 - Noel Preston (1996, 1997)

@@ -1,7 +1,7 @@
 ---
 name: Dr Larelle Bossi
 affiliation: Law Futures Centre
-role: Committee Member
+role: Vice President
 email: l.bossi@griffith.edu.au
 ---
 
