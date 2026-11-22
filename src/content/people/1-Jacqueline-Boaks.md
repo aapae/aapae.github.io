@@ -5,6 +5,10 @@ affiliation: Ethics and Sustainability sub-discipline, School of Management and 
 phone: +61 (0) 8 9266 2629
 email: jacqueline.boaks@curtin.edu.au
 --- 
-Jacqueline is researcher and lecturer in ethics and leadership, and is a founding faculty member in the Ethics and Sustainability sub-discipline at Curtin University’s School of Management and Marketing. She is also a member of Curtin University’s ‘Sustainability in Business and Law (PRME)’ working group, and the founder of the WA Ethics Outside Philosophy group.   
+Dr Jacqueline Boaks is the Curriculum Lead with the Curtin Centre for Applied Ethics and Philosopher-in-Residence at the WA Data Science Innovation Hub.
 
-Jacqueline has experience teaching ethics to medical students, principles of responsible management and ethics to business students at the UWA School of Business, leadership and ethics to MBA and business students at Curtin University and to high school students as part of the University of Western Australia’s high school outreach program. She has previously worked in the private sector in telecommunications, member based organisations, and consulting work.  She is co-editor of Leadership and Ethics (Bloomsbury) and has published widely on democracy, ethics and leadership.
+She is President of the Australian Association of Professional and Applied Ethics, editor of Research into Ethical Issues in Organizations (Emerald), founder of the WA Ethics Outside Philosophy group, co-editor of Leadership and Ethics (Bloomsbury) and a member of the editorial board of the journal Philosophy of Management (Springer).
+
+Jacqueline leads the ‘Rethinking Leadership’ annual workshop on leadership and ethics in Vienna, along with Professor David Carl Wilson of Webster University. Her most recent research addresses and the question of dirty hands in leadership, and the impact of Artificial Intelligence in CSR decision making in organisations.
+
+She is regularly featured in media on the ethics of artificial intelligence, leadership, and business ethics.
